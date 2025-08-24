@@ -84,14 +84,25 @@ class SitemapController extends Controller
 
         $res = $data->filter(function ($item) use ($asalId) {
             return $asalId != $item['id'];
-        })->values()->map(function ($item) use ($asal, $asalId) {
-            return route('jalur-rute-travel', [
-                'asal' => $asal,
-                'asalId' => $asalId,
-                'tujuan' => Str::slug($item['name']),
-                'tujuanId' => $item['id'],
-            ]);
+        })->values()->flatMap(function ($item) use ($asal, $asalId) {
+            return [
+                // Rute asal -> tujuan
+                route('jalur-rute-travel', [
+                    'asal' => $asal,
+                    'asalId' => $asalId,
+                    'tujuan' => Str::slug($item['name']),
+                    'tujuanId' => $item['id'],
+                ]),
+                // Rute tujuan -> asal (kebalikannya)
+                route('jalur-rute-travel', [
+                    'asal' => Str::slug($item['name']),
+                    'asalId' => $item['id'],
+                    'tujuan' => $asal,
+                    'tujuanId' => $asalId,
+                ]),
+            ];
         });
+
 
         return $this->xml($res);
     }
