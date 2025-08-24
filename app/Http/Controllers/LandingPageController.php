@@ -21,23 +21,27 @@ class LandingPageController extends Controller
         $this->province = ProvinceController::all()
             ->whereIn("id", ['31', '51'])
             ->values();
+
+        $cityOrder = [
+            "3580",
+            "3578",
+            "3528",
+            "3529",
+            "3526",
+            "3527",
+            "3576",
+            "3573",
+            "3514",
+            "3571"
+        ];
+
         $this->city = CityController::all()
-            ->whereIn(
-                "id",
-                [
-                    "3580",
-                    "3578",
-                    "3528",
-                    "3529",
-                    "3526",
-                    "3527",
-                    "3576",
-                    "3573",
-                    "3514",
-                    "3571"
-                ]
-            )
+            ->whereIn("id", $cityOrder)
+            ->sortBy(function ($item) use ($cityOrder) {
+                return array_search($item['id'], $cityOrder);
+            })
             ->values();
+
         $this->district = DistrictController::all()
             ->whereIn("id", ["3515110", "3515131"])
             ->values();
@@ -58,8 +62,8 @@ class LandingPageController extends Controller
             $this->city[5],       // 3527 -> origin
             $this->city[1],       // 3578 -> destination
 
+            $this->city[1],       // 3578 -> destination
             $this->city[0],       // 3580 -> origin
-            $this->district[0],   // 3515110 -> destination
 
             $this->city[6],       // 3576 -> origin
             $this->city[0],       // 3580 -> destination
