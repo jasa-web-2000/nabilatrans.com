@@ -1,0 +1,5322 @@
+[
+  {
+    "id": "3501010",
+    "regency_id": "3501",
+    "name": "DONOROJO",
+    "alt_name": "Donorojo, Pacitan Regency, East Java, Indonesia",
+    "latitude": -8.14756,
+    "longitude": 110.93874
+  },
+  {
+    "id": "3501020",
+    "regency_id": "3501",
+    "name": "PUNUNG",
+    "alt_name": "Punung, Pacitan Regency, East Java, Indonesia",
+    "latitude": -8.12182,
+    "longitude": 111.03412
+  },
+  {
+    "id": "3501030",
+    "regency_id": "3501",
+    "name": "PRINGKUKU",
+    "alt_name": "Pringkuku, Pacitan Regency, East Java, Indonesia",
+    "latitude": -8.18366,
+    "longitude": 111.03412
+  },
+  {
+    "id": "3501040",
+    "regency_id": "3501",
+    "name": "PACITAN",
+    "alt_name": "Pacitan, Pacitan Sub-District, Pacitan Regency, East Java, Indonesia",
+    "latitude": -8.17978,
+    "longitude": 111.10565
+  },
+  {
+    "id": "3501050",
+    "regency_id": "3501",
+    "name": "KEBONAGUNG",
+    "alt_name": "Kebonagung, Pacitan Regency, East Java, Indonesia",
+    "latitude": -8.21711,
+    "longitude": 111.17719
+  },
+  {
+    "id": "3501060",
+    "regency_id": "3501",
+    "name": "ARJOSARI",
+    "alt_name": "Arjosari, Blimbing, Malang City, East Java, Indonesia",
+    "latitude": -7.93075,
+    "longitude": 112.65711
+  },
+  {
+    "id": "3501070",
+    "regency_id": "3501",
+    "name": "NAWANGAN",
+    "alt_name": "Nawangan, Pacitan Regency, East Java, Indonesia",
+    "latitude": -7.99069,
+    "longitude": 111.17719
+  },
+  {
+    "id": "3501080",
+    "regency_id": "3501",
+    "name": "BANDAR",
+    "alt_name": "Bandar, Bandar Kumbul, Bilah Bar., Kabupaten Labuhan Batu, Sumatera Utara, Indonesia",
+    "latitude": 2.05,
+    "longitude": 99.75
+  },
+  {
+    "id": "3501090",
+    "regency_id": "3501",
+    "name": "TEGALOMBO",
+    "alt_name": "Tegalombo, Pacitan Regency, East Java, Indonesia",
+    "latitude": -8.0665,
+    "longitude": 111.29643
+  },
+  {
+    "id": "3501100",
+    "regency_id": "3501",
+    "name": "TULAKAN",
+    "alt_name": "Tulakan, Pacitan Regency, East Java, Indonesia",
+    "latitude": -8.18162,
+    "longitude": 111.26066
+  },
+  {
+    "id": "3501110",
+    "regency_id": "3501",
+    "name": "NGADIROJO",
+    "alt_name": "Ngadirojo, Wonogiri Regency, Central Java, Indonesia",
+    "latitude": -7.8352,
+    "longitude": 111.01027
+  },
+  {
+    "id": "3501120",
+    "regency_id": "3501",
+    "name": "SUDIMORO",
+    "alt_name": "Sudimoro, Pacitan Regency, East Java, Indonesia",
+    "latitude": -8.2272,
+    "longitude": 111.36797
+  },
+  {
+    "id": "3502010",
+    "regency_id": "3502",
+    "name": "NGRAYUN",
+    "alt_name": "Ngrayun, Ponorogo Regency, East Java, Indonesia",
+    "latitude": -8.08889,
+    "longitude": 111.45144
+  },
+  {
+    "id": "3502020",
+    "regency_id": "3502",
+    "name": "SLAHUNG",
+    "alt_name": "Slahung, Kabupaten Ponorogo, Jawa Timur, Indonesia",
+    "latitude": -8.0352,
+    "longitude": 111.4138
+  },
+  {
+    "id": "3502030",
+    "regency_id": "3502",
+    "name": "BUNGKAL",
+    "alt_name": "Bungkal, Belang, Bungkal, Kabupaten Ponorogo, Jawa Timur, Indonesia",
+    "latitude": -8.00969,
+    "longitude": 111.4612
+  },
+  {
+    "id": "3502040",
+    "regency_id": "3502",
+    "name": "SAMBIT",
+    "alt_name": "Sambit, Ponorogo Regency, East Java, Indonesia",
+    "latitude": -7.99326,
+    "longitude": 111.51106
+  },
+  {
+    "id": "3502050",
+    "regency_id": "3502",
+    "name": "SAWOO",
+    "alt_name": "Sawoo, Ponorogo Regency, East Java, Indonesia",
+    "latitude": -7.98937,
+    "longitude": 111.5826
+  },
+  {
+    "id": "3502060",
+    "regency_id": "3502",
+    "name": "SOOKO",
+    "alt_name": "Sooko, Mojokerto, East Java, Indonesia",
+    "latitude": -7.50152,
+    "longitude": 112.41127
+  },
+  {
+    "id": "3502061",
+    "regency_id": "3502",
+    "name": "PUDAK",
+    "alt_name": "Pudak, Ponorogo Regency, East Java, Indonesia",
+    "latitude": -7.85878,
+    "longitude": 111.72569
+  },
+  {
+    "id": "3502070",
+    "regency_id": "3502",
+    "name": "PULUNG",
+    "alt_name": "Pulung, Sidoharjo, Pulung, Kabupaten Ponorogo, Jawa Timur, Indonesia",
+    "latitude": -7.87649,
+    "longitude": 111.6118
+  },
+  {
+    "id": "3502080",
+    "regency_id": "3502",
+    "name": "MLARAK",
+    "alt_name": "Mlarak, Ponorogo Regency, East Java, Indonesia",
+    "latitude": -7.91543,
+    "longitude": 111.52894
+  },
+  {
+    "id": "3502090",
+    "regency_id": "3502",
+    "name": "SIMAN",
+    "alt_name": "Siman, Ponorogo Regency, East Java, Indonesia",
+    "latitude": -7.89079,
+    "longitude": 111.51106
+  },
+  {
+    "id": "3502100",
+    "regency_id": "3502",
+    "name": "JETIS",
+    "alt_name": "Jetis, Bantul Regency, Special Region of Yogyakarta, Indonesia",
+    "latitude": -7.91477,
+    "longitude": 110.36067
+  },
+  {
+    "id": "3502110",
+    "regency_id": "3502",
+    "name": "BALONG",
+    "alt_name": "Balong, Bajang, Balong, Kabupaten Ponorogo, Jawa Timur, Indonesia",
+    "latitude": -7.95507,
+    "longitude": 111.4591
+  },
+  {
+    "id": "3502120",
+    "regency_id": "3502",
+    "name": "KAUMAN",
+    "alt_name": "Kauman, Klojen, Malang City, East Java, Indonesia",
+    "latitude": -7.97826,
+    "longitude": 112.62731
+  },
+  {
+    "id": "3502130",
+    "regency_id": "3502",
+    "name": "JAMBON",
+    "alt_name": "Jambon, Ponorogo Regency, East Java, Indonesia",
+    "latitude": -7.91893,
+    "longitude": 111.36797
+  },
+  {
+    "id": "3502140",
+    "regency_id": "3502",
+    "name": "BADEGAN",
+    "alt_name": "Badegan, Ponorogo Regency, East Java, Indonesia",
+    "latitude": -7.90097,
+    "longitude": 111.32027
+  },
+  {
+    "id": "3502150",
+    "regency_id": "3502",
+    "name": "SAMPUNG",
+    "alt_name": "Jl. Nasional 10, Kabupaten Banyumas, Jawa Tengah, Indonesia",
+    "latitude": -7.56026,
+    "longitude": 109.28615
+  },
+  {
+    "id": "3502160",
+    "regency_id": "3502",
+    "name": "SUKOREJO",
+    "alt_name": "Sukorejo, Kendal Regency, Central Java, Indonesia",
+    "latitude": -7.14775,
+    "longitude": 109.98541
+  },
+  {
+    "id": "3502170",
+    "regency_id": "3502",
+    "name": "PONOROGO",
+    "alt_name": "Ponorogo, Ponorogo Sub-District, Ponorogo Regency, East Java, Indonesia",
+    "latitude": -7.86669,
+    "longitude": 111.46661
+  },
+  {
+    "id": "3502180",
+    "regency_id": "3502",
+    "name": "BABADAN",
+    "alt_name": "Babadan, Sambi, Kabupaten Boyolali, Jawa Tengah, Indonesia",
+    "latitude": -7.46667,
+    "longitude": 110.68333
+  },
+  {
+    "id": "3502190",
+    "regency_id": "3502",
+    "name": "JENANGAN",
+    "alt_name": "Jenangan, Ponorogo Regency, East Java, Indonesia",
+    "latitude": -7.82811,
+    "longitude": 111.53491
+  },
+  {
+    "id": "3502200",
+    "regency_id": "3502",
+    "name": "NGEBEL",
+    "alt_name": "Ngebel, Ponorogo Regency, East Java, Indonesia",
+    "latitude": -7.80131,
+    "longitude": 111.65415
+  },
+  {
+    "id": "3503010",
+    "regency_id": "3503",
+    "name": "PANGGUL",
+    "alt_name": "Panggul, Trenggalek Regency, East Java, Indonesia",
+    "latitude": -8.21228,
+    "longitude": 111.45144
+  },
+  {
+    "id": "3503020",
+    "regency_id": "3503",
+    "name": "MUNJUNGAN",
+    "alt_name": "Munjungan, Trenggalek Regency, East Java, Indonesia",
+    "latitude": -8.28661,
+    "longitude": 111.59453
+  },
+  {
+    "id": "3503030",
+    "regency_id": "3503",
+    "name": "WATULIMO",
+    "alt_name": "Watulimo, Trenggalek Regency, East Java, Indonesia",
+    "latitude": -8.27025,
+    "longitude": 111.70185
+  },
+  {
+    "id": "3503040",
+    "regency_id": "3503",
+    "name": "KAMPAK",
+    "alt_name": "Kampak, Trenggalek Regency, East Java, Indonesia",
+    "latitude": -8.21124,
+    "longitude": 111.65415
+  },
+  {
+    "id": "3503050",
+    "regency_id": "3503",
+    "name": "DONGKO",
+    "alt_name": "Dongko, Trenggalek Regency, East Java, Indonesia",
+    "latitude": -8.20697,
+    "longitude": 111.54683
+  },
+  {
+    "id": "3503060",
+    "regency_id": "3503",
+    "name": "PULE",
+    "alt_name": "Pule, Trenggalek Regency, East Java, Indonesia",
+    "latitude": -8.13567,
+    "longitude": 111.53491
+  },
+  {
+    "id": "3503070",
+    "regency_id": "3503",
+    "name": "KARANGAN",
+    "alt_name": "Karangan, Mempawah Hulu, Kabupaten Landak, Kalimantan Barat, Indonesia",
+    "latitude": 0.55695,
+    "longitude": 109.3748
+  },
+  {
+    "id": "3503071",
+    "regency_id": "3503",
+    "name": "SURUH",
+    "alt_name": "Suruh, Trenggalek Regency, East Java, Indonesia",
+    "latitude": -8.11117,
+    "longitude": 111.60645
+  },
+  {
+    "id": "3503080",
+    "regency_id": "3503",
+    "name": "GANDUSARI",
+    "alt_name": "Gandusari, Blitar, East Java, Indonesia",
+    "latitude": -8.00015,
+    "longitude": 112.30993
+  },
+  {
+    "id": "3503090",
+    "regency_id": "3503",
+    "name": "DURENAN",
+    "alt_name": "Durenan, Trenggalek Regency, East Java, Indonesia",
+    "latitude": -8.10057,
+    "longitude": 111.79724
+  },
+  {
+    "id": "3503100",
+    "regency_id": "3503",
+    "name": "POGALAN",
+    "alt_name": "Pogalan, Trenggalek Regency, East Java, Indonesia",
+    "latitude": -8.08271,
+    "longitude": 111.74954
+  },
+  {
+    "id": "3503110",
+    "regency_id": "3503",
+    "name": "TRENGGALEK",
+    "alt_name": "Trenggalek, Trenggalek Regency, East Java, Indonesia",
+    "latitude": -8.08641,
+    "longitude": 111.71313
+  },
+  {
+    "id": "3503120",
+    "regency_id": "3503",
+    "name": "TUGU",
+    "alt_name": "Tugu, Cimanggis, Depok City, West Java, Indonesia",
+    "latitude": -6.36219,
+    "longitude": 106.85029
+  },
+  {
+    "id": "3503130",
+    "regency_id": "3503",
+    "name": "BENDUNGAN",
+    "alt_name": "Bendungan, Trenggalek Regency, East Java, Indonesia",
+    "latitude": -7.96238,
+    "longitude": 111.70185
+  },
+  {
+    "id": "3504010",
+    "regency_id": "3504",
+    "name": "BESUKI",
+    "alt_name": "Besuki, Kabupaten Situbondo, Jawa Timur, Indonesia",
+    "latitude": -7.7368,
+    "longitude": 113.689
+  },
+  {
+    "id": "3504020",
+    "regency_id": "3504",
+    "name": "BANDUNG",
+    "alt_name": "Bandung, Bandung City, West Java, Indonesia",
+    "latitude": -6.91746,
+    "longitude": 107.61912
+  },
+  {
+    "id": "3504030",
+    "regency_id": "3504",
+    "name": "PAKEL",
+    "alt_name": "Pakel, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.15531,
+    "longitude": 111.82705
+  },
+  {
+    "id": "3504040",
+    "regency_id": "3504",
+    "name": "CAMPUR DARAT",
+    "alt_name": "Campur Darat, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.15809,
+    "longitude": 111.86878
+  },
+  {
+    "id": "3504050",
+    "regency_id": "3504",
+    "name": "TANGGUNG GUNUNG",
+    "alt_name": "Tanggung Gunung, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.23885,
+    "longitude": 111.89263
+  },
+  {
+    "id": "3504060",
+    "regency_id": "3504",
+    "name": "KALIDAWIR",
+    "alt_name": "Kalidawir, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.19508,
+    "longitude": 111.94033
+  },
+  {
+    "id": "3504070",
+    "regency_id": "3504",
+    "name": "PUCANG LABAN",
+    "alt_name": "Pucang Laban, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.23341,
+    "longitude": 111.98802
+  },
+  {
+    "id": "3504080",
+    "regency_id": "3504",
+    "name": "REJOTANGAN",
+    "alt_name": "Rejotangan, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.14729,
+    "longitude": 112.05956
+  },
+  {
+    "id": "3504090",
+    "regency_id": "3504",
+    "name": "NGUNUT",
+    "alt_name": "Ngunut, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.11037,
+    "longitude": 111.98802
+  },
+  {
+    "id": "3504100",
+    "regency_id": "3504",
+    "name": "SUMBERGEMPOL",
+    "alt_name": "Sumbergempol, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.09668,
+    "longitude": 111.95821
+  },
+  {
+    "id": "3504110",
+    "regency_id": "3504",
+    "name": "BOYOLANGU",
+    "alt_name": "Boyolangu, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.11954,
+    "longitude": 111.89428
+  },
+  {
+    "id": "3504120",
+    "regency_id": "3504",
+    "name": "TULUNGAGUNG",
+    "alt_name": "Tulungagung, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.09122,
+    "longitude": 111.96417
+  },
+  {
+    "id": "3504130",
+    "regency_id": "3504",
+    "name": "KEDUNGWARU",
+    "alt_name": "Kedungwaru, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.04747,
+    "longitude": 111.92244
+  },
+  {
+    "id": "3504140",
+    "regency_id": "3504",
+    "name": "NGANTRU",
+    "alt_name": "Ngantru, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -8.01544,
+    "longitude": 111.94629
+  },
+  {
+    "id": "3504150",
+    "regency_id": "3504",
+    "name": "KARANGREJO",
+    "alt_name": "Karangrejo, Garum, Blitar, East Java, Indonesia",
+    "latitude": -8.01901,
+    "longitude": 112.25392
+  },
+  {
+    "id": "3504160",
+    "regency_id": "3504",
+    "name": "KAUMAN",
+    "alt_name": "Kauman, Klojen, Malang City, East Java, Indonesia",
+    "latitude": -7.97826,
+    "longitude": 112.62731
+  },
+  {
+    "id": "3504170",
+    "regency_id": "3504",
+    "name": "GONDANG",
+    "alt_name": "Gondang, Sragen Regency, Central Java, Indonesia",
+    "latitude": -7.44173,
+    "longitude": 111.10565
+  },
+  {
+    "id": "3504180",
+    "regency_id": "3504",
+    "name": "PAGER WOJO",
+    "alt_name": "Pagerwojo, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -7.98852,
+    "longitude": 111.78531
+  },
+  {
+    "id": "3504190",
+    "regency_id": "3504",
+    "name": "SENDANG",
+    "alt_name": "Sendang, Tulungagung Regency, East Java, Indonesia",
+    "latitude": -7.93539,
+    "longitude": 111.82109
+  },
+  {
+    "id": "3505010",
+    "regency_id": "3505",
+    "name": "BAKUNG",
+    "alt_name": "Bakung, Blitar, East Java, Indonesia",
+    "latitude": -8.2594,
+    "longitude": 112.07148
+  },
+  {
+    "id": "3505020",
+    "regency_id": "3505",
+    "name": "WONOTIRTO",
+    "alt_name": "Wonotirto, Blitar, East Java, Indonesia",
+    "latitude": -8.25389,
+    "longitude": 112.16687
+  },
+  {
+    "id": "3505030",
+    "regency_id": "3505",
+    "name": "PANGGUNGREJO",
+    "alt_name": "Panggungrejo, Blitar, East Java, Indonesia",
+    "latitude": -8.24836,
+    "longitude": 112.26225
+  },
+  {
+    "id": "3505040",
+    "regency_id": "3505",
+    "name": "WATES",
+    "alt_name": "Wates, Kulon Progo Regency, Special Region of Yogyakarta, Indonesia",
+    "latitude": -7.87065,
+    "longitude": 110.16111
+  },
+  {
+    "id": "3505050",
+    "regency_id": "3505",
+    "name": "BINANGUN",
+    "alt_name": "Binangun, Cilacap Regency, Central Java, Indonesia",
+    "latitude": -7.67336,
+    "longitude": 109.27126
+  },
+  {
+    "id": "3505060",
+    "regency_id": "3505",
+    "name": "SUTOJAYAN",
+    "alt_name": "Sutojayan, Blitar, East Java, Indonesia",
+    "latitude": -8.17246,
+    "longitude": 112.21226
+  },
+  {
+    "id": "3505070",
+    "regency_id": "3505",
+    "name": "KADEMANGAN",
+    "alt_name": "Kademangan, Blitar, East Java, Indonesia",
+    "latitude": -8.19956,
+    "longitude": 112.10602
+  },
+  {
+    "id": "3505080",
+    "regency_id": "3505",
+    "name": "KANIGORO",
+    "alt_name": "Kanigoro, Blitar, East Java, Indonesia",
+    "latitude": -8.11867,
+    "longitude": 112.20263
+  },
+  {
+    "id": "3505090",
+    "regency_id": "3505",
+    "name": "TALUN",
+    "alt_name": "Talun, Blitar, East Java, Indonesia",
+    "latitude": -8.09413,
+    "longitude": 112.27417
+  },
+  {
+    "id": "3505100",
+    "regency_id": "3505",
+    "name": "SELOPURO",
+    "alt_name": "Selopuro, Blitar, East Java, Indonesia",
+    "latitude": -8.13775,
+    "longitude": 112.31589
+  },
+  {
+    "id": "3505110",
+    "regency_id": "3505",
+    "name": "KESAMBEN",
+    "alt_name": "Kesamben, Blitar, East Java, Indonesia",
+    "latitude": -8.15,
+    "longitude": 112.36954
+  },
+  {
+    "id": "3505120",
+    "regency_id": "3505",
+    "name": "SELOREJO",
+    "alt_name": "Selorejo, Blitar, East Java, Indonesia",
+    "latitude": -8.10499,
+    "longitude": 112.44107
+  },
+  {
+    "id": "3505130",
+    "regency_id": "3505",
+    "name": "DOKO",
+    "alt_name": "Doko, Blitar, East Java, Indonesia",
+    "latitude": -8.04645,
+    "longitude": 112.39338
+  },
+  {
+    "id": "3505140",
+    "regency_id": "3505",
+    "name": "WLINGI",
+    "alt_name": "Wlingi, Ploso, Selopuro, Blitar, Jawa Timur, Indonesia",
+    "latitude": -8.12938,
+    "longitude": 112.321
+  },
+  {
+    "id": "3505150",
+    "regency_id": "3505",
+    "name": "GANDUSARI",
+    "alt_name": "Gandusari, Blitar, East Java, Indonesia",
+    "latitude": -8.00015,
+    "longitude": 112.30993
+  },
+  {
+    "id": "3505160",
+    "regency_id": "3505",
+    "name": "GARUM",
+    "alt_name": "Garum, Blitar, East Java, Indonesia",
+    "latitude": -8.03416,
+    "longitude": 112.25032
+  },
+  {
+    "id": "3505170",
+    "regency_id": "3505",
+    "name": "NGLEGOK",
+    "alt_name": "Nglegok, Blitar, East Java, Indonesia",
+    "latitude": -7.99465,
+    "longitude": 112.22648
+  },
+  {
+    "id": "3505180",
+    "regency_id": "3505",
+    "name": "SANANKULON",
+    "alt_name": "Sanankulon, Blitar, East Java, Indonesia",
+    "latitude": -8.06612,
+    "longitude": 112.13706
+  },
+  {
+    "id": "3505190",
+    "regency_id": "3505",
+    "name": "PONGGOK",
+    "alt_name": "Ponggok, Blitar, East Java, Indonesia",
+    "latitude": -8.01089,
+    "longitude": 112.11918
+  },
+  {
+    "id": "3505200",
+    "regency_id": "3505",
+    "name": "SRENGAT",
+    "alt_name": "Srengat, Blitar, East Java, Indonesia",
+    "latitude": -8.08585,
+    "longitude": 112.05956
+  },
+  {
+    "id": "3505210",
+    "regency_id": "3505",
+    "name": "WONODADI",
+    "alt_name": "Wonodadi, Blitar, East Java, Indonesia",
+    "latitude": -8.04759,
+    "longitude": 112.01187
+  },
+  {
+    "id": "3505220",
+    "regency_id": "3505",
+    "name": "UDANAWU",
+    "alt_name": "Udanawu, Blitar, East Java, Indonesia",
+    "latitude": -8.01079,
+    "longitude": 112.02975
+  },
+  {
+    "id": "3506010",
+    "regency_id": "3506",
+    "name": "MOJO",
+    "alt_name": "Mojo, Gubeng, Surabaya City, East Java, Indonesia",
+    "latitude": -7.27324,
+    "longitude": 112.76586
+  },
+  {
+    "id": "3506020",
+    "regency_id": "3506",
+    "name": "SEMEN",
+    "alt_name": "Semen, Kediri, East Java, Indonesia",
+    "latitude": -7.82932,
+    "longitude": 111.89263
+  },
+  {
+    "id": "3506030",
+    "regency_id": "3506",
+    "name": "NGADILUWIH",
+    "alt_name": "Ngadiluwih, Kediri, East Java, Indonesia",
+    "latitude": -7.90579,
+    "longitude": 111.98802
+  },
+  {
+    "id": "3506040",
+    "regency_id": "3506",
+    "name": "KRAS",
+    "alt_name": "Kras, Kediri, East Java, Indonesia",
+    "latitude": -7.9671,
+    "longitude": 111.98802
+  },
+  {
+    "id": "3506050",
+    "regency_id": "3506",
+    "name": "RINGINREJO",
+    "alt_name": "Ringinrejo, Kediri, East Java, Indonesia",
+    "latitude": -7.97945,
+    "longitude": 112.04168
+  },
+  {
+    "id": "3506060",
+    "regency_id": "3506",
+    "name": "KANDAT",
+    "alt_name": "Kandat, Kediri, East Java, Indonesia",
+    "latitude": -7.92359,
+    "longitude": 112.03571
+  },
+  {
+    "id": "3506070",
+    "regency_id": "3506",
+    "name": "WATES",
+    "alt_name": "Wates, Kulon Progo Regency, Special Region of Yogyakarta, Indonesia",
+    "latitude": -7.87065,
+    "longitude": 110.16111
+  },
+  {
+    "id": "3506080",
+    "regency_id": "3506",
+    "name": "NGANCAR",
+    "alt_name": "Ngancar, Kediri, East Java, Indonesia",
+    "latitude": -7.93607,
+    "longitude": 112.17879
+  },
+  {
+    "id": "3506090",
+    "regency_id": "3506",
+    "name": "PLOSOKLATEN",
+    "alt_name": "Plosoklaten, Kediri, East Java, Indonesia",
+    "latitude": -7.87486,
+    "longitude": 112.17879
+  },
+  {
+    "id": "3506100",
+    "regency_id": "3506",
+    "name": "GURAH",
+    "alt_name": "Gurah, Kediri, East Java, Indonesia",
+    "latitude": -7.81221,
+    "longitude": 112.11321
+  },
+  {
+    "id": "3506110",
+    "regency_id": "3506",
+    "name": "PUNCU",
+    "alt_name": "Puncu, Kediri, East Java, Indonesia",
+    "latitude": -7.85051,
+    "longitude": 112.25032
+  },
+  {
+    "id": "3506120",
+    "regency_id": "3506",
+    "name": "KEPUNG",
+    "alt_name": "Kepung, Kediri, East Java, Indonesia",
+    "latitude": -7.7881,
+    "longitude": 112.27417
+  },
+  {
+    "id": "3506130",
+    "regency_id": "3506",
+    "name": "KANDANGAN",
+    "alt_name": "Kandangan, Kediri, Jawa Timur, Indonesia",
+    "latitude": -7.75587,
+    "longitude": 112.286
+  },
+  {
+    "id": "3506140",
+    "regency_id": "3506",
+    "name": "PARE",
+    "alt_name": "Pare, Kediri, Jawa Timur, Indonesia",
+    "latitude": -7.76551,
+    "longitude": 112.1979
+  },
+  {
+    "id": "3506141",
+    "regency_id": "3506",
+    "name": "BADAS",
+    "alt_name": "Badas, Kediri, East Java, Indonesia",
+    "latitude": -7.73096,
+    "longitude": 112.20263
+  },
+  {
+    "id": "3506150",
+    "regency_id": "3506",
+    "name": "KUNJANG",
+    "alt_name": "Kunjang, Kediri, East Java, Indonesia",
+    "latitude": -7.66584,
+    "longitude": 112.18475
+  },
+  {
+    "id": "3506160",
+    "regency_id": "3506",
+    "name": "PLEMAHAN",
+    "alt_name": "Plemahan, Sumobito, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.55007,
+    "longitude": 112.33229
+  },
+  {
+    "id": "3506170",
+    "regency_id": "3506",
+    "name": "PURWOASRI",
+    "alt_name": "Purwoasri, Kediri, East Java, Indonesia",
+    "latitude": -7.63315,
+    "longitude": 112.1311
+  },
+  {
+    "id": "3506180",
+    "regency_id": "3506",
+    "name": "PAPAR",
+    "alt_name": "Papar, Kediri, East Java, Indonesia",
+    "latitude": -7.69544,
+    "longitude": 112.10725
+  },
+  {
+    "id": "3506190",
+    "regency_id": "3506",
+    "name": "PAGU",
+    "alt_name": "Pagu, Kediri, Jawa Timur, Indonesia",
+    "latitude": -7.7664,
+    "longitude": 112.0843
+  },
+  {
+    "id": "3506191",
+    "regency_id": "3506",
+    "name": "KAYEN KIDUL",
+    "alt_name": "Kayen Kidul, Kediri, East Java, Indonesia",
+    "latitude": -7.74156,
+    "longitude": 112.10129
+  },
+  {
+    "id": "3506200",
+    "regency_id": "3506",
+    "name": "GAMPENGREJO",
+    "alt_name": "Gampengrejo, Kediri, East Java, Indonesia",
+    "latitude": -7.75561,
+    "longitude": 112.02975
+  },
+  {
+    "id": "3506201",
+    "regency_id": "3506",
+    "name": "NGASEM",
+    "alt_name": "Ngasem, Kediri, East Java, Indonesia",
+    "latitude": -7.80527,
+    "longitude": 112.0536
+  },
+  {
+    "id": "3506210",
+    "regency_id": "3506",
+    "name": "BANYAKAN",
+    "alt_name": "Banyakan, Kediri, East Java, Indonesia",
+    "latitude": -7.78593,
+    "longitude": 111.94033
+  },
+  {
+    "id": "3506220",
+    "regency_id": "3506",
+    "name": "GROGOL",
+    "alt_name": "Grogol, Grogol petamburan, West Jakarta City, Special Capital Region of Jakarta, Indonesia",
+    "latitude": -6.16086,
+    "longitude": 106.79277
+  },
+  {
+    "id": "3506230",
+    "regency_id": "3506",
+    "name": "TAROKAN",
+    "alt_name": "Tarakan, Tarakan City, East Kalimantan, Indonesia",
+    "latitude": 3.32736,
+    "longitude": 117.5785
+  },
+  {
+    "id": "3507010",
+    "regency_id": "3507",
+    "name": "DONOMULYO",
+    "alt_name": "Donomulyo, Malang, East Java, Indonesia",
+    "latitude": -8.32197,
+    "longitude": 112.4053
+  },
+  {
+    "id": "3507020",
+    "regency_id": "3507",
+    "name": "KALIPARE",
+    "alt_name": "Kalipare, Malang, East Java, Indonesia",
+    "latitude": -8.20722,
+    "longitude": 112.44107
+  },
+  {
+    "id": "3507030",
+    "regency_id": "3507",
+    "name": "PAGAK",
+    "alt_name": "Pagak, Malang, East Java, Indonesia",
+    "latitude": -8.24396,
+    "longitude": 112.51259
+  },
+  {
+    "id": "3507040",
+    "regency_id": "3507",
+    "name": "BANTUR",
+    "alt_name": "Bantur, Malang, East Java, Indonesia",
+    "latitude": -8.3135,
+    "longitude": 112.54835
+  },
+  {
+    "id": "3507050",
+    "regency_id": "3507",
+    "name": "GEDANGAN",
+    "alt_name": "Gedangan, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.39338,
+    "longitude": 112.73309
+  },
+  {
+    "id": "3507060",
+    "regency_id": "3507",
+    "name": "SUMBERMANJING",
+    "alt_name": "Sumbermanjing, Malang, East Java, Indonesia",
+    "latitude": -8.38398,
+    "longitude": 112.73905
+  },
+  {
+    "id": "3507070",
+    "regency_id": "3507",
+    "name": "DAMPIT",
+    "alt_name": "Dampit, Malang, Jawa Timur, Indonesia",
+    "latitude": -8.20846,
+    "longitude": 112.7556
+  },
+  {
+    "id": "3507080",
+    "regency_id": "3507",
+    "name": "TIRTO YUDO",
+    "alt_name": "Tirto Yudo, Malang, East Java, Indonesia",
+    "latitude": -8.24604,
+    "longitude": 112.82247
+  },
+  {
+    "id": "3507090",
+    "regency_id": "3507",
+    "name": "AMPELGADING",
+    "alt_name": "Ampelgading, Malang, East Java, Indonesia",
+    "latitude": -8.21185,
+    "longitude": 112.88205
+  },
+  {
+    "id": "3507100",
+    "regency_id": "3507",
+    "name": "PONCOKUSUMO",
+    "alt_name": "Poncokusumo, Malang, Jawa Timur, Indonesia",
+    "latitude": -8.05513,
+    "longitude": 112.8133
+  },
+  {
+    "id": "3507110",
+    "regency_id": "3507",
+    "name": "WAJAK",
+    "alt_name": "Wajak, Malang, East Java, Indonesia",
+    "latitude": -8.1278,
+    "longitude": 112.75097
+  },
+  {
+    "id": "3507120",
+    "regency_id": "3507",
+    "name": "TUREN",
+    "alt_name": "Turen, Tanggung, Turen, Malang, East Java, Indonesia",
+    "latitude": -8.16801,
+    "longitude": 112.69277
+  },
+  {
+    "id": "3507130",
+    "regency_id": "3507",
+    "name": "BULULAWANG",
+    "alt_name": "Bululawang, Malang, East Java, Indonesia",
+    "latitude": -8.11297,
+    "longitude": 112.65562
+  },
+  {
+    "id": "3507140",
+    "regency_id": "3507",
+    "name": "GONDANGLEGI",
+    "alt_name": "Gondanglegi, Malang, East Java, Indonesia",
+    "latitude": -8.15519,
+    "longitude": 112.63178
+  },
+  {
+    "id": "3507150",
+    "regency_id": "3507",
+    "name": "PAGELARAN",
+    "alt_name": "Pagelaran, Malang, East Java, Indonesia",
+    "latitude": -8.19745,
+    "longitude": 112.60795
+  },
+  {
+    "id": "3507160",
+    "regency_id": "3507",
+    "name": "KEPANJEN",
+    "alt_name": "Kepanjen, Malang, East Java, Indonesia",
+    "latitude": -8.12908,
+    "longitude": 112.57276
+  },
+  {
+    "id": "3507170",
+    "regency_id": "3507",
+    "name": "SUMBER PUCUNG",
+    "alt_name": "Sumber Pucung, Malang, East Java, Indonesia",
+    "latitude": -8.16354,
+    "longitude": 112.48875
+  },
+  {
+    "id": "3507180",
+    "regency_id": "3507",
+    "name": "KROMENGAN",
+    "alt_name": "Kromengan, Malang, East Java, Indonesia",
+    "latitude": -8.12743,
+    "longitude": 112.49471
+  },
+  {
+    "id": "3507190",
+    "regency_id": "3507",
+    "name": "NGAJUM",
+    "alt_name": "Ngajum, Malang, East Java, Indonesia",
+    "latitude": -8.05866,
+    "longitude": 112.53643
+  },
+  {
+    "id": "3507200",
+    "regency_id": "3507",
+    "name": "WONOSARI",
+    "alt_name": "Wonosari, Gunung Kidul Regency, Special Region of Yogyakarta, Indonesia",
+    "latitude": -7.95577,
+    "longitude": 110.59746
+  },
+  {
+    "id": "3507210",
+    "regency_id": "3507",
+    "name": "WAGIR",
+    "alt_name": "Wagir, Parangargo, Wagir, Malang, Jawa Timur, Indonesia",
+    "latitude": -8.01475,
+    "longitude": 112.5954
+  },
+  {
+    "id": "3507220",
+    "regency_id": "3507",
+    "name": "PAKISAJI",
+    "alt_name": "Pakisaji, Malang, East Java, Indonesia",
+    "latitude": -8.07493,
+    "longitude": 112.60795
+  },
+  {
+    "id": "3507230",
+    "regency_id": "3507",
+    "name": "TAJINAN",
+    "alt_name": "Tajinan, Malang, East Java, Indonesia",
+    "latitude": -8.0504,
+    "longitude": 112.67946
+  },
+  {
+    "id": "3507240",
+    "regency_id": "3507",
+    "name": "TUMPANG",
+    "alt_name": "Tumpang, Malang, East Java, Indonesia",
+    "latitude": -8.00551,
+    "longitude": 112.75097
+  },
+  {
+    "id": "3507250",
+    "regency_id": "3507",
+    "name": "PAKIS",
+    "alt_name": "Pakis, Malang, East Java, Indonesia",
+    "latitude": -7.96754,
+    "longitude": 112.70329
+  },
+  {
+    "id": "3507260",
+    "regency_id": "3507",
+    "name": "JABUNG",
+    "alt_name": "Jabung, Malang, East Java, Indonesia",
+    "latitude": -7.94171,
+    "longitude": 112.79863
+  },
+  {
+    "id": "3507270",
+    "regency_id": "3507",
+    "name": "LAWANG",
+    "alt_name": "Lawang, Malang, Jawa Timur, Indonesia",
+    "latitude": -7.83076,
+    "longitude": 112.6971
+  },
+  {
+    "id": "3507280",
+    "regency_id": "3507",
+    "name": "SINGOSARI",
+    "alt_name": "Singosari, Malang, East Java, Indonesia",
+    "latitude": -7.88488,
+    "longitude": 112.67226
+  },
+  {
+    "id": "3507290",
+    "regency_id": "3507",
+    "name": "KARANGPLOSO",
+    "alt_name": "Karangploso, Malang, East Java, Indonesia",
+    "latitude": -7.85224,
+    "longitude": 112.58411
+  },
+  {
+    "id": "3507300",
+    "regency_id": "3507",
+    "name": "DAU",
+    "alt_name": "Dau, Malang, East Java, Indonesia",
+    "latitude": -7.95671,
+    "longitude": 112.53643
+  },
+  {
+    "id": "3507310",
+    "regency_id": "3507",
+    "name": "PUJON",
+    "alt_name": "Pujon, Malang, East Java, Indonesia",
+    "latitude": -7.82907,
+    "longitude": 112.45299
+  },
+  {
+    "id": "3507320",
+    "regency_id": "3507",
+    "name": "NGANTANG",
+    "alt_name": "Ngantang, Malang, East Java, Indonesia",
+    "latitude": -7.89733,
+    "longitude": 112.36413
+  },
+  {
+    "id": "3507330",
+    "regency_id": "3507",
+    "name": "KASEMBON",
+    "alt_name": "Kasembon, Malang, East Java, Indonesia",
+    "latitude": -7.80451,
+    "longitude": 112.3457
+  },
+  {
+    "id": "3508010",
+    "regency_id": "3508",
+    "name": "TEMPURSARI",
+    "alt_name": "Tempursari, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.28778,
+    "longitude": 112.97737
+  },
+  {
+    "id": "3508020",
+    "regency_id": "3508",
+    "name": "PRONOJIWO",
+    "alt_name": "Pronojiwo, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.20616,
+    "longitude": 112.97737
+  },
+  {
+    "id": "3508030",
+    "regency_id": "3508",
+    "name": "CANDIPURO",
+    "alt_name": "Candipuro, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.19096,
+    "longitude": 113.06077
+  },
+  {
+    "id": "3508040",
+    "regency_id": "3508",
+    "name": "PASIRIAN",
+    "alt_name": "Pasirian, Sumberejo, Candipuro, Kabupaten Lumajang, Jawa Timur, Indonesia",
+    "latitude": -8.18293,
+    "longitude": 113.0734
+  },
+  {
+    "id": "3508050",
+    "regency_id": "3508",
+    "name": "TEMPEH",
+    "alt_name": "Tempeh, Pulo, Tempeh, Kabupaten Lumajang, Jawa Timur, Indonesia",
+    "latitude": -8.17757,
+    "longitude": 113.1518
+  },
+  {
+    "id": "3508060",
+    "regency_id": "3508",
+    "name": "LUMAJANG",
+    "alt_name": "Lumajang, Lumajang Sub-District, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.13277,
+    "longitude": 113.22456
+  },
+  {
+    "id": "3508061",
+    "regency_id": "3508",
+    "name": "SUMBERSUKO",
+    "alt_name": "Sumbersuko, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.15296,
+    "longitude": 113.18329
+  },
+  {
+    "id": "3508070",
+    "regency_id": "3508",
+    "name": "TEKUNG",
+    "alt_name": "Tekung, Karanglo, Kunir, Kabupaten Lumajang, Jawa Timur, Indonesia",
+    "latitude": -8.19715,
+    "longitude": 113.2513
+  },
+  {
+    "id": "3508080",
+    "regency_id": "3508",
+    "name": "KUNIR",
+    "alt_name": "Kunir, Jatigono, Kunir, Kabupaten Lumajang, Jawa Timur, Indonesia",
+    "latitude": -8.23485,
+    "longitude": 113.221
+  },
+  {
+    "id": "3508090",
+    "regency_id": "3508",
+    "name": "YOSOWILANGUN",
+    "alt_name": "Yosowilangun, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.23617,
+    "longitude": 113.28747
+  },
+  {
+    "id": "3508100",
+    "regency_id": "3508",
+    "name": "ROWOKANGKUNG",
+    "alt_name": "Rowokangkung, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.19549,
+    "longitude": 113.32281
+  },
+  {
+    "id": "3508110",
+    "regency_id": "3508",
+    "name": "JATIROTO",
+    "alt_name": "Jatiroto, Wonogiri Regency, Central Java, Indonesia",
+    "latitude": -7.88282,
+    "longitude": 111.1079
+  },
+  {
+    "id": "3508120",
+    "regency_id": "3508",
+    "name": "RANDUAGUNG",
+    "alt_name": "Randuagung, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.05321,
+    "longitude": 113.32281
+  },
+  {
+    "id": "3508130",
+    "regency_id": "3508",
+    "name": "SUKODONO",
+    "alt_name": "Sukodono, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.39467,
+    "longitude": 112.67379
+  },
+  {
+    "id": "3508140",
+    "regency_id": "3508",
+    "name": "PADANG",
+    "alt_name": "Padang, Padang City, West Sumatra, Indonesia",
+    "latitude": -0.94708,
+    "longitude": 100.41718
+  },
+  {
+    "id": "3508150",
+    "regency_id": "3508",
+    "name": "PASRUJAMBE",
+    "alt_name": "Pasrujambe, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.0839,
+    "longitude": 112.97737
+  },
+  {
+    "id": "3508160",
+    "regency_id": "3508",
+    "name": "SENDURO",
+    "alt_name": "Senduro, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.02953,
+    "longitude": 113.03694
+  },
+  {
+    "id": "3508170",
+    "regency_id": "3508",
+    "name": "GUCIALIT",
+    "alt_name": "Gucialit, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.02391,
+    "longitude": 113.13224
+  },
+  {
+    "id": "3508180",
+    "regency_id": "3508",
+    "name": "KEDUNGJAJANG",
+    "alt_name": "Kedungjajang, Lumajang Regency, East Java, Indonesia",
+    "latitude": -8.03858,
+    "longitude": 113.22753
+  },
+  {
+    "id": "3508190",
+    "regency_id": "3508",
+    "name": "KLAKAH",
+    "alt_name": "Klakah, Mlawang, Klakah, Kabupaten Lumajang, Jawa Timur, Indonesia",
+    "latitude": -7.99656,
+    "longitude": 113.2496
+  },
+  {
+    "id": "3508200",
+    "regency_id": "3508",
+    "name": "RANUYOSO",
+    "alt_name": "Ranuyoso, Lumajang Regency, East Java, Indonesia",
+    "latitude": -7.95458,
+    "longitude": 113.27518
+  },
+  {
+    "id": "3509010",
+    "regency_id": "3509",
+    "name": "KENCONG",
+    "alt_name": "Kencong, Paseban, Kencong, Kabupaten Jember, Jawa Timur, Indonesia",
+    "latitude": -8.30638,
+    "longitude": 113.3354
+  },
+  {
+    "id": "3509020",
+    "regency_id": "3509",
+    "name": "GUMUK MAS",
+    "alt_name": "Gumuk MAS, Jember Regency, East Java, Indonesia",
+    "latitude": -8.33364,
+    "longitude": 113.39426
+  },
+  {
+    "id": "3509030",
+    "regency_id": "3509",
+    "name": "PUGER",
+    "alt_name": "Puger, Jember Regency, East Java, Indonesia",
+    "latitude": -8.47794,
+    "longitude": 113.37045
+  },
+  {
+    "id": "3509040",
+    "regency_id": "3509",
+    "name": "WULUHAN",
+    "alt_name": "Wuluhan, Jember Regency, East Java, Indonesia",
+    "latitude": -8.36548,
+    "longitude": 113.53714
+  },
+  {
+    "id": "3509050",
+    "regency_id": "3509",
+    "name": "AMBULU",
+    "alt_name": "Ambulu, Jember Regency, East Java, Indonesia",
+    "latitude": -8.38136,
+    "longitude": 113.60856
+  },
+  {
+    "id": "3509060",
+    "regency_id": "3509",
+    "name": "TEMPUREJO",
+    "alt_name": "Tempurejo, Jember Regency, East Java, Indonesia",
+    "latitude": -8.40058,
+    "longitude": 113.78708
+  },
+  {
+    "id": "3509070",
+    "regency_id": "3509",
+    "name": "SILO",
+    "alt_name": "Silo, Jember Regency, East Java, Indonesia",
+    "latitude": -8.27261,
+    "longitude": 113.88227
+  },
+  {
+    "id": "3509080",
+    "regency_id": "3509",
+    "name": "MAYANG",
+    "alt_name": "Mayang, Jember Regency, East Java, Indonesia",
+    "latitude": -8.20681,
+    "longitude": 113.79898
+  },
+  {
+    "id": "3509090",
+    "regency_id": "3509",
+    "name": "MUMBULSARI",
+    "alt_name": "Mumbulsari, Jember Regency, East Java, Indonesia",
+    "latitude": -8.25037,
+    "longitude": 113.75138
+  },
+  {
+    "id": "3509100",
+    "regency_id": "3509",
+    "name": "JENGGAWAH",
+    "alt_name": "Jenggawah, Jember Regency, East Java, Indonesia",
+    "latitude": -8.29697,
+    "longitude": 113.65617
+  },
+  {
+    "id": "3509110",
+    "regency_id": "3509",
+    "name": "AJUNG",
+    "alt_name": "Ajung, Jember Regency, East Java, Indonesia",
+    "latitude": -8.23599,
+    "longitude": 113.65617
+  },
+  {
+    "id": "3509120",
+    "regency_id": "3509",
+    "name": "RAMBIPUJI",
+    "alt_name": "Rambipuji, Jember Regency, East Java, Indonesia",
+    "latitude": -8.21863,
+    "longitude": 113.60856
+  },
+  {
+    "id": "3509130",
+    "regency_id": "3509",
+    "name": "BALUNG",
+    "alt_name": "Balung, Jember Regency, East Java, Indonesia",
+    "latitude": -8.2637,
+    "longitude": 113.53714
+  },
+  {
+    "id": "3509140",
+    "regency_id": "3509",
+    "name": "UMBULSARI",
+    "alt_name": "Umbulsari, Jember Regency, East Java, Indonesia",
+    "latitude": -8.25071,
+    "longitude": 113.41808
+  },
+  {
+    "id": "3509150",
+    "regency_id": "3509",
+    "name": "SEMBORO",
+    "alt_name": "Semboro, Jember Regency, East Java, Indonesia",
+    "latitude": -8.18351,
+    "longitude": 113.43594
+  },
+  {
+    "id": "3509160",
+    "regency_id": "3509",
+    "name": "JOMBANG",
+    "alt_name": "Jombang Regency, East Java, Indonesia",
+    "latitude": -7.57409,
+    "longitude": 112.28609
+  },
+  {
+    "id": "3509170",
+    "regency_id": "3509",
+    "name": "SUMBER BARU",
+    "alt_name": "Sumber Baru, Jember Regency, East Java, Indonesia",
+    "latitude": -8.09896,
+    "longitude": 113.40617
+  },
+  {
+    "id": "3509180",
+    "regency_id": "3509",
+    "name": "TANGGUL",
+    "alt_name": "Tanggul, Jember Regency, East Java, Indonesia",
+    "latitude": -8.0932,
+    "longitude": 113.50142
+  },
+  {
+    "id": "3509190",
+    "regency_id": "3509",
+    "name": "BANGSALSARI",
+    "alt_name": "Bangsalsari, Jember Regency, East Java, Indonesia",
+    "latitude": -8.17151,
+    "longitude": 113.54904
+  },
+  {
+    "id": "3509200",
+    "regency_id": "3509",
+    "name": "PANTI",
+    "alt_name": "Panti, Kabupaten Pasaman, Sumatera Barat, Indonesia",
+    "latitude": 0.35769,
+    "longitude": 100.0585
+  },
+  {
+    "id": "3509210",
+    "regency_id": "3509",
+    "name": "SUKORAMBI",
+    "alt_name": "Sukorambi, Jember Regency, East Java, Indonesia",
+    "latitude": -8.11891,
+    "longitude": 113.66212
+  },
+  {
+    "id": "3509220",
+    "regency_id": "3509",
+    "name": "ARJASA",
+    "alt_name": "Arjasa, Jember Regency, East Java, Indonesia",
+    "latitude": -8.1044,
+    "longitude": 113.73353
+  },
+  {
+    "id": "3509230",
+    "regency_id": "3509",
+    "name": "PAKUSARI",
+    "alt_name": "Pakusari, Jember Regency, East Java, Indonesia",
+    "latitude": -8.16772,
+    "longitude": 113.77518
+  },
+  {
+    "id": "3509240",
+    "regency_id": "3509",
+    "name": "KALISAT",
+    "alt_name": "Kalisat, Jember Regency, East Java, Indonesia",
+    "latitude": -8.1257,
+    "longitude": 113.79898
+  },
+  {
+    "id": "3509250",
+    "regency_id": "3509",
+    "name": "LEDOKOMBO",
+    "alt_name": "Ledokombo, Jember Regency, East Java, Indonesia",
+    "latitude": -8.15094,
+    "longitude": 113.88227
+  },
+  {
+    "id": "3509260",
+    "regency_id": "3509",
+    "name": "SUMBERJAMBE",
+    "alt_name": "Sumberjambe, Jember Regency, East Java, Indonesia",
+    "latitude": -8.07639,
+    "longitude": 113.94175
+  },
+  {
+    "id": "3509270",
+    "regency_id": "3509",
+    "name": "SUKOWONO",
+    "alt_name": "Sukowono, Jember Regency, East Java, Indonesia",
+    "latitude": -8.06348,
+    "longitude": 113.82278
+  },
+  {
+    "id": "3509280",
+    "regency_id": "3509",
+    "name": "JELBUK",
+    "alt_name": "Jelbuk, Jember Regency, East Java, Indonesia",
+    "latitude": -8.0693,
+    "longitude": 113.72758
+  },
+  {
+    "id": "3509710",
+    "regency_id": "3509",
+    "name": "KALIWATES",
+    "alt_name": "Kaliwates, Jember Regency, East Java, Indonesia",
+    "latitude": -8.18919,
+    "longitude": 113.67403
+  },
+  {
+    "id": "3509720",
+    "regency_id": "3509",
+    "name": "SUMBERSARI",
+    "alt_name": "Sumbersari, Jember Regency, East Java, Indonesia",
+    "latitude": -8.17066,
+    "longitude": 113.72758
+  },
+  {
+    "id": "3509730",
+    "regency_id": "3509",
+    "name": "PATRANG",
+    "alt_name": "Patrang, Jember Regency, East Java, Indonesia",
+    "latitude": -8.137,
+    "longitude": 113.69783
+  },
+  {
+    "id": "3510010",
+    "regency_id": "3510",
+    "name": "PESANGGARAN",
+    "alt_name": "Pesanggaran, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.51043,
+    "longitude": 113.97744
+  },
+  {
+    "id": "3510011",
+    "regency_id": "3510",
+    "name": "SILIRAGUNG",
+    "alt_name": "Siliragung, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.49328,
+    "longitude": 114.08448
+  },
+  {
+    "id": "3510020",
+    "regency_id": "3510",
+    "name": "BANGOREJO",
+    "alt_name": "Bangorejo, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.50894,
+    "longitude": 114.15583
+  },
+  {
+    "id": "3510030",
+    "regency_id": "3510",
+    "name": "PURWOHARJO",
+    "alt_name": "Purwoharjo, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.54333,
+    "longitude": 114.25094
+  },
+  {
+    "id": "3510040",
+    "regency_id": "3510",
+    "name": "TEGALDLIMO",
+    "alt_name": "Tegaldlimo, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.64484,
+    "longitude": 114.40545
+  },
+  {
+    "id": "3510050",
+    "regency_id": "3510",
+    "name": "MUNCAR",
+    "alt_name": "Muncar, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.44802,
+    "longitude": 114.31037
+  },
+  {
+    "id": "3510060",
+    "regency_id": "3510",
+    "name": "CLURING",
+    "alt_name": "Cluring, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.44332,
+    "longitude": 114.22716
+  },
+  {
+    "id": "3510070",
+    "regency_id": "3510",
+    "name": "GAMBIRAN",
+    "alt_name": "Gambiran, Kabupaten Banyuwangi, Jawa Timur, Indonesia",
+    "latitude": -8.39603,
+    "longitude": 114.1447
+  },
+  {
+    "id": "3510071",
+    "regency_id": "3510",
+    "name": "TEGALSARI",
+    "alt_name": "Tegalsari, Tegalrejo, Tegalsari, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.40185,
+    "longitude": 114.1181
+  },
+  {
+    "id": "3510080",
+    "regency_id": "3510",
+    "name": "GLENMORE",
+    "alt_name": "Glenmore, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.30112,
+    "longitude": 114.07259
+  },
+  {
+    "id": "3510090",
+    "regency_id": "3510",
+    "name": "KALIBARU",
+    "alt_name": "Kalibaru, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.2666,
+    "longitude": 113.97744
+  },
+  {
+    "id": "3510100",
+    "regency_id": "3510",
+    "name": "GENTENG",
+    "alt_name": "Genteng, Genteng Kulon, Genteng, Kabupaten Banyuwangi, Jawa Timur, Indonesia",
+    "latitude": -8.36658,
+    "longitude": 114.1463
+  },
+  {
+    "id": "3510110",
+    "regency_id": "3510",
+    "name": "SRONO",
+    "alt_name": "Srono, Kebaman, Srono, Kabupaten Banyuwangi, Jawa Timur, Indonesia",
+    "latitude": -8.39976,
+    "longitude": 114.2613
+  },
+  {
+    "id": "3510120",
+    "regency_id": "3510",
+    "name": "ROGOJAMPI",
+    "alt_name": "Rogojampi, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.33573,
+    "longitude": 114.32226
+  },
+  {
+    "id": "3510130",
+    "regency_id": "3510",
+    "name": "KABAT",
+    "alt_name": "Kabat, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.27498,
+    "longitude": 114.32226
+  },
+  {
+    "id": "3510140",
+    "regency_id": "3510",
+    "name": "SINGOJURUH",
+    "alt_name": "Singojuruh, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.32008,
+    "longitude": 114.25094
+  },
+  {
+    "id": "3510150",
+    "regency_id": "3510",
+    "name": "SEMPU",
+    "alt_name": "Sempu Island, Tambakrejo, Sumbermanjing, Malang, East Java, Indonesia",
+    "latitude": -8.44286,
+    "longitude": 112.69734
+  },
+  {
+    "id": "3510160",
+    "regency_id": "3510",
+    "name": "SONGGON",
+    "alt_name": "Songgon, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.13608,
+    "longitude": 114.12015
+  },
+  {
+    "id": "3510170",
+    "regency_id": "3510",
+    "name": "GLAGAH",
+    "alt_name": "Glagah, Temon, Kulon Progo Regency, Special Region of Yogyakarta, Indonesia",
+    "latitude": -7.90606,
+    "longitude": 110.07177
+  },
+  {
+    "id": "3510171",
+    "regency_id": "3510",
+    "name": "LICIN",
+    "alt_name": "Licin, Kabupaten Banyuwangi, Jawa Timur, Indonesia",
+    "latitude": -8.19238,
+    "longitude": 114.2626
+  },
+  {
+    "id": "3510180",
+    "regency_id": "3510",
+    "name": "BANYUWANGI",
+    "alt_name": "Banyuwangi, Banyuwangi Sub-District, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.21923,
+    "longitude": 114.36923
+  },
+  {
+    "id": "3510190",
+    "regency_id": "3510",
+    "name": "GIRI",
+    "alt_name": "Giri, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.18788,
+    "longitude": 114.34009
+  },
+  {
+    "id": "3510200",
+    "regency_id": "3510",
+    "name": "KALIPURO",
+    "alt_name": "Kalipuro, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.15214,
+    "longitude": 114.34603
+  },
+  {
+    "id": "3510210",
+    "regency_id": "3510",
+    "name": "WONGSOREJO",
+    "alt_name": "Wongsorejo, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.00304,
+    "longitude": 114.31037
+  },
+  {
+    "id": "3511010",
+    "regency_id": "3511",
+    "name": "MAESAN",
+    "alt_name": "Maesan, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -8.02736,
+    "longitude": 113.75138
+  },
+  {
+    "id": "3511020",
+    "regency_id": "3511",
+    "name": "GRUJUGAN",
+    "alt_name": "Grujugan, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.98689,
+    "longitude": 113.75138
+  },
+  {
+    "id": "3511030",
+    "regency_id": "3511",
+    "name": "TAMANAN",
+    "alt_name": "Tamanan, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -8.02301,
+    "longitude": 113.82278
+  },
+  {
+    "id": "3511031",
+    "regency_id": "3511",
+    "name": "JAMBESARI DARUS SHOLAH",
+    "alt_name": "Jambesari Darus Sholah, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.98111,
+    "longitude": 113.84658
+  },
+  {
+    "id": "3511040",
+    "regency_id": "3511",
+    "name": "PUJER",
+    "alt_name": "Pujer, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.99843,
+    "longitude": 113.89417
+  },
+  {
+    "id": "3511050",
+    "regency_id": "3511",
+    "name": "TLOGOSARI",
+    "alt_name": "Tlogosari, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -8.03448,
+    "longitude": 113.96554
+  },
+  {
+    "id": "3511060",
+    "regency_id": "3511",
+    "name": "SUKOSARI",
+    "alt_name": "Sukosari, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.94196,
+    "longitude": 113.95067
+  },
+  {
+    "id": "3511061",
+    "regency_id": "3511",
+    "name": "SUMBER WRINGIN",
+    "alt_name": "Sumber Wringin, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -8.00988,
+    "longitude": 114.03691
+  },
+  {
+    "id": "3511070",
+    "regency_id": "3511",
+    "name": "TAPEN",
+    "alt_name": "Tapen, Purwosari, Kwadungan, Kabupaten Ngawi, Jawa Timur, Indonesia",
+    "latitude": -7.48333,
+    "longitude": 111.5
+  },
+  {
+    "id": "3511080",
+    "regency_id": "3511",
+    "name": "WONOSARI",
+    "alt_name": "Wonosari, Gunung Kidul Regency, Special Region of Yogyakarta, Indonesia",
+    "latitude": -7.95577,
+    "longitude": 110.59746
+  },
+  {
+    "id": "3511090",
+    "regency_id": "3511",
+    "name": "TENGGARANG",
+    "alt_name": "Tenggarang, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.9407,
+    "longitude": 113.84658
+  },
+  {
+    "id": "3511100",
+    "regency_id": "3511",
+    "name": "BONDOWOSO",
+    "alt_name": "Bondowoso, Bondowoso Sub-District, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.91876,
+    "longitude": 113.82064
+  },
+  {
+    "id": "3511110",
+    "regency_id": "3511",
+    "name": "CURAH DAMI",
+    "alt_name": "Curah Dami, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.9248,
+    "longitude": 113.77518
+  },
+  {
+    "id": "3511111",
+    "regency_id": "3511",
+    "name": "BINAKAL",
+    "alt_name": "Binakal, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.91143,
+    "longitude": 113.74543
+  },
+  {
+    "id": "3511120",
+    "regency_id": "3511",
+    "name": "PAKEM",
+    "alt_name": "Pakem, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+    "latitude": -7.63949,
+    "longitude": 110.41429
+  },
+  {
+    "id": "3511130",
+    "regency_id": "3511",
+    "name": "WRINGIN",
+    "alt_name": "Wringin, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.82385,
+    "longitude": 113.77518
+  },
+  {
+    "id": "3511140",
+    "regency_id": "3511",
+    "name": "TEGALAMPEL",
+    "alt_name": "Tegalampel, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.88155,
+    "longitude": 113.82278
+  },
+  {
+    "id": "3511141",
+    "regency_id": "3511",
+    "name": "TAMAN KROCOK",
+    "alt_name": "Taman Krocok, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.85851,
+    "longitude": 113.87037
+  },
+  {
+    "id": "3511150",
+    "regency_id": "3511",
+    "name": "KLABANG",
+    "alt_name": "Klabang, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.81534,
+    "longitude": 113.91796
+  },
+  {
+    "id": "3511151",
+    "regency_id": "3511",
+    "name": "SEMPOL",
+    "alt_name": "Sempol, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -8.05228,
+    "longitude": 114.16772
+  },
+  {
+    "id": "3511152",
+    "regency_id": "3511",
+    "name": "BOTOLINGGO",
+    "alt_name": "Botolinggo, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.90897,
+    "longitude": 114.03691
+  },
+  {
+    "id": "3511160",
+    "regency_id": "3511",
+    "name": "PRAJEKAN",
+    "alt_name": "Prajekan, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.79235,
+    "longitude": 113.96554
+  },
+  {
+    "id": "3511170",
+    "regency_id": "3511",
+    "name": "CERMEE",
+    "alt_name": "Cermee, Bondowoso Regency, East Java, Indonesia",
+    "latitude": -7.82692,
+    "longitude": 114.06069
+  },
+  {
+    "id": "3512010",
+    "regency_id": "3512",
+    "name": "SUMBERMALANG",
+    "alt_name": "Sumbermalang, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.89009,
+    "longitude": 113.67998
+  },
+  {
+    "id": "3512020",
+    "regency_id": "3512",
+    "name": "JATIBANTENG",
+    "alt_name": "Jatibanteng, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.8309,
+    "longitude": 113.65617
+  },
+  {
+    "id": "3512030",
+    "regency_id": "3512",
+    "name": "BANYUGLUGUR",
+    "alt_name": "Banyuglugur, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.75157,
+    "longitude": 113.63237
+  },
+  {
+    "id": "3512040",
+    "regency_id": "3512",
+    "name": "BESUKI",
+    "alt_name": "Besuki, Kabupaten Situbondo, Jawa Timur, Indonesia",
+    "latitude": -7.7368,
+    "longitude": 113.689
+  },
+  {
+    "id": "3512050",
+    "regency_id": "3512",
+    "name": "SUBOH",
+    "alt_name": "Suboh, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.76076,
+    "longitude": 113.73353
+  },
+  {
+    "id": "3512060",
+    "regency_id": "3512",
+    "name": "MLANDINGAN",
+    "alt_name": "Mlandingan, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.78749,
+    "longitude": 113.79303
+  },
+  {
+    "id": "3512070",
+    "regency_id": "3512",
+    "name": "BUNGATAN",
+    "alt_name": "Bungatan, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.74039,
+    "longitude": 113.82278
+  },
+  {
+    "id": "3512080",
+    "regency_id": "3512",
+    "name": "KENDIT",
+    "alt_name": "Kendit, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.73618,
+    "longitude": 113.89417
+  },
+  {
+    "id": "3512090",
+    "regency_id": "3512",
+    "name": "PANARUKAN",
+    "alt_name": "Panarukan, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.69173,
+    "longitude": 113.96554
+  },
+  {
+    "id": "3512100",
+    "regency_id": "3512",
+    "name": "SITUBONDO",
+    "alt_name": "Situbondo, Situbondo Sub-District, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.70505,
+    "longitude": 113.99528
+  },
+  {
+    "id": "3512110",
+    "regency_id": "3512",
+    "name": "MANGARAN",
+    "alt_name": "Mangaran, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.62725,
+    "longitude": 114.03691
+  },
+  {
+    "id": "3512120",
+    "regency_id": "3512",
+    "name": "PANJI",
+    "alt_name": "Panji, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.70762,
+    "longitude": 114.03691
+  },
+  {
+    "id": "3512130",
+    "regency_id": "3512",
+    "name": "KAPONGAN",
+    "alt_name": "Kapongan, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.70479,
+    "longitude": 114.08448
+  },
+  {
+    "id": "3512140",
+    "regency_id": "3512",
+    "name": "ARJASA",
+    "alt_name": "Arjasa, Jember Regency, East Java, Indonesia",
+    "latitude": -8.1044,
+    "longitude": 113.73353
+  },
+  {
+    "id": "3512150",
+    "regency_id": "3512",
+    "name": "JANGKAR",
+    "alt_name": "Jangkar, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.80106,
+    "longitude": 114.15583
+  },
+  {
+    "id": "3512160",
+    "regency_id": "3512",
+    "name": "ASEMBAGUS",
+    "alt_name": "Asembagus, Situbondo Regency, East Java, Indonesia",
+    "latitude": -7.88802,
+    "longitude": 114.21527
+  },
+  {
+    "id": "3512170",
+    "regency_id": "3512",
+    "name": "BANYUPUTIH",
+    "alt_name": "Banyuputih, Batang Regency, Central Java, Indonesia",
+    "latitude": -6.96632,
+    "longitude": 109.93778
+  },
+  {
+    "id": "3513010",
+    "regency_id": "3513",
+    "name": "SUKAPURA",
+    "alt_name": "Sukapura, Dayeuhkolot, Bandung, West Java, Indonesia",
+    "latitude": -6.96998,
+    "longitude": 107.62893
+  },
+  {
+    "id": "3513020",
+    "regency_id": "3513",
+    "name": "SUMBER",
+    "alt_name": "Sumber, Probolinggo, Jawa Timur, Indonesia",
+    "latitude": -7.92695,
+    "longitude": 113.1188
+  },
+  {
+    "id": "3513030",
+    "regency_id": "3513",
+    "name": "KURIPAN",
+    "alt_name": "Kuripan, West Lombok Regency, West Nusa Tenggara, Indonesia",
+    "latitude": -8.6677,
+    "longitude": 116.16548
+  },
+  {
+    "id": "3513040",
+    "regency_id": "3513",
+    "name": "BANTARAN",
+    "alt_name": "Bantaran, Probolinggo, East Java, Indonesia",
+    "latitude": -7.87365,
+    "longitude": 113.18585
+  },
+  {
+    "id": "3513050",
+    "regency_id": "3513",
+    "name": "LECES",
+    "alt_name": "Leces, Probolinggo, East Java, Indonesia",
+    "latitude": -7.85131,
+    "longitude": 113.22158
+  },
+  {
+    "id": "3513060",
+    "regency_id": "3513",
+    "name": "TEGALSIWALAN",
+    "alt_name": "Tegalsiwalan, Probolinggo, East Java, Indonesia",
+    "latitude": -7.86879,
+    "longitude": 113.26922
+  },
+  {
+    "id": "3513070",
+    "regency_id": "3513",
+    "name": "BANYUANYAR",
+    "alt_name": "Banyuanyar, Banjarsari, Surakarta City, Central Java, Indonesia",
+    "latitude": -7.53951,
+    "longitude": 110.80612
+  },
+  {
+    "id": "3513080",
+    "regency_id": "3513",
+    "name": "TIRIS",
+    "alt_name": "Tiris, Probolinggo, East Java, Indonesia",
+    "latitude": -7.94754,
+    "longitude": 113.39426
+  },
+  {
+    "id": "3513090",
+    "regency_id": "3513",
+    "name": "KRUCIL",
+    "alt_name": "Krucil, Probolinggo, East Java, Indonesia",
+    "latitude": -7.93106,
+    "longitude": 113.50142
+  },
+  {
+    "id": "3513100",
+    "regency_id": "3513",
+    "name": "GADING",
+    "alt_name": "Gading, Wangkal, Gading, Probolinggo, Jawa Timur, Indonesia",
+    "latitude": -7.84581,
+    "longitude": 113.4336
+  },
+  {
+    "id": "3513110",
+    "regency_id": "3513",
+    "name": "PAKUNIRAN",
+    "alt_name": "Pakuniran, Probolinggo, East Java, Indonesia",
+    "latitude": -7.81632,
+    "longitude": 113.56095
+  },
+  {
+    "id": "3513120",
+    "regency_id": "3513",
+    "name": "KOTAANYAR",
+    "alt_name": "Kotaanyar, Probolinggo, East Java, Indonesia",
+    "latitude": -7.75574,
+    "longitude": 113.56095
+  },
+  {
+    "id": "3513130",
+    "regency_id": "3513",
+    "name": "PAITON",
+    "alt_name": "Paiton, Probolinggo, East Java, Indonesia",
+    "latitude": -7.71953,
+    "longitude": 113.48952
+  },
+  {
+    "id": "3513140",
+    "regency_id": "3513",
+    "name": "BESUK",
+    "alt_name": "Besuk, Probolinggo, East Java, Indonesia",
+    "latitude": -7.78549,
+    "longitude": 113.48356
+  },
+  {
+    "id": "3513150",
+    "regency_id": "3513",
+    "name": "KRAKSAAN",
+    "alt_name": "Kraksaan, Patokan, Kraksaan, Probolinggo, Jawa Timur, Indonesia",
+    "latitude": -7.76249,
+    "longitude": 113.4172
+  },
+  {
+    "id": "3513160",
+    "regency_id": "3513",
+    "name": "KREJENGAN",
+    "alt_name": "Krejengan, Probolinggo, East Java, Indonesia",
+    "latitude": -7.80447,
+    "longitude": 113.41808
+  },
+  {
+    "id": "3513170",
+    "regency_id": "3513",
+    "name": "PAJARAKAN",
+    "alt_name": "Pajarakan, Probolinggo, East Java, Indonesia",
+    "latitude": -7.77152,
+    "longitude": 113.3764
+  },
+  {
+    "id": "3513180",
+    "regency_id": "3513",
+    "name": "MARON",
+    "alt_name": "Maron, Probolinggo, East Java, Indonesia",
+    "latitude": -7.82885,
+    "longitude": 113.34663
+  },
+  {
+    "id": "3513190",
+    "regency_id": "3513",
+    "name": "GENDING",
+    "alt_name": "Gending, Pajurangan, Gending, Probolinggo, Jawa Timur, Indonesia",
+    "latitude": -7.79333,
+    "longitude": 113.3068
+  },
+  {
+    "id": "3513200",
+    "regency_id": "3513",
+    "name": "DRINGU",
+    "alt_name": "Dringu, Probolinggo, East Java, Indonesia",
+    "latitude": -7.78851,
+    "longitude": 113.25731
+  },
+  {
+    "id": "3513210",
+    "regency_id": "3513",
+    "name": "WONOMERTO",
+    "alt_name": "Wonomerto, Probolinggo, East Java, Indonesia",
+    "latitude": -7.83991,
+    "longitude": 113.15607
+  },
+  {
+    "id": "3513220",
+    "regency_id": "3513",
+    "name": "LUMBANG",
+    "alt_name": "Lumbang, Probolinggo, East Java, Indonesia",
+    "latitude": -7.83459,
+    "longitude": 113.07268
+  },
+  {
+    "id": "3513230",
+    "regency_id": "3513",
+    "name": "TONGAS",
+    "alt_name": "Tongas, Probolinggo, East Java, Indonesia",
+    "latitude": -7.763,
+    "longitude": 113.08459
+  },
+  {
+    "id": "3513240",
+    "regency_id": "3513",
+    "name": "SUMBERASIH",
+    "alt_name": "Sumberasih, Probolinggo, East Java, Indonesia",
+    "latitude": -7.76432,
+    "longitude": 113.15011
+  },
+  {
+    "id": "3514010",
+    "regency_id": "3514",
+    "name": "PURWODADI",
+    "alt_name": "Purwodadi, Grobogan Regency, Central Java, Indonesia",
+    "latitude": -7.08721,
+    "longitude": 110.91341
+  },
+  {
+    "id": "3514020",
+    "regency_id": "3514",
+    "name": "TUTUR",
+    "alt_name": "Tutur, Pasuruan, East Java, Indonesia",
+    "latitude": -7.89969,
+    "longitude": 112.82247
+  },
+  {
+    "id": "3514030",
+    "regency_id": "3514",
+    "name": "PUSPO",
+    "alt_name": "Puspo, Pasuruan, East Java, Indonesia",
+    "latitude": -7.83604,
+    "longitude": 112.87013
+  },
+  {
+    "id": "3514040",
+    "regency_id": "3514",
+    "name": "TOSARI",
+    "alt_name": "Tosari, Pasuruan, East Java, Indonesia",
+    "latitude": -7.89559,
+    "longitude": 112.89396
+  },
+  {
+    "id": "3514050",
+    "regency_id": "3514",
+    "name": "LUMBANG",
+    "alt_name": "Lumbang, Probolinggo, East Java, Indonesia",
+    "latitude": -7.83459,
+    "longitude": 113.07268
+  },
+  {
+    "id": "3514060",
+    "regency_id": "3514",
+    "name": "PASREPAN",
+    "alt_name": "Pasrepan, Pasuruan, East Java, Indonesia",
+    "latitude": -7.79411,
+    "longitude": 112.89396
+  },
+  {
+    "id": "3514070",
+    "regency_id": "3514",
+    "name": "KEJAYAN",
+    "alt_name": "Kejayan, Pasuruan, East Java, Indonesia",
+    "latitude": -7.73598,
+    "longitude": 112.8463
+  },
+  {
+    "id": "3514080",
+    "regency_id": "3514",
+    "name": "WONOREJO",
+    "alt_name": "Wonorejo, Rungkut, Surabaya City, East Java, Indonesia",
+    "latitude": -7.30596,
+    "longitude": 112.81353
+  },
+  {
+    "id": "3514090",
+    "regency_id": "3514",
+    "name": "PURWOSARI",
+    "alt_name": "Purwosari, Pasuruan, East Java, Indonesia",
+    "latitude": -7.76295,
+    "longitude": 112.72713
+  },
+  {
+    "id": "3514100",
+    "regency_id": "3514",
+    "name": "PRIGEN",
+    "alt_name": "Prigen, Pasuruan, Jawa Timur, Indonesia",
+    "latitude": -7.69717,
+    "longitude": 112.6279
+  },
+  {
+    "id": "3514110",
+    "regency_id": "3514",
+    "name": "SUKOREJO",
+    "alt_name": "Sukorejo, Kendal Regency, Central Java, Indonesia",
+    "latitude": -7.14775,
+    "longitude": 109.98541
+  },
+  {
+    "id": "3514120",
+    "regency_id": "3514",
+    "name": "PANDAAN",
+    "alt_name": "Pandaan, Pasuruan, East Java, Indonesia",
+    "latitude": -7.64263,
+    "longitude": 112.70329
+  },
+  {
+    "id": "3514130",
+    "regency_id": "3514",
+    "name": "GEMPOL",
+    "alt_name": "Gempol, Cirebon, West Java, Indonesia",
+    "latitude": -6.70535,
+    "longitude": 108.41744
+  },
+  {
+    "id": "3514140",
+    "regency_id": "3514",
+    "name": "BEJI",
+    "alt_name": "Beji, Depok City, West Java, Indonesia",
+    "latitude": -6.37588,
+    "longitude": 106.82374
+  },
+  {
+    "id": "3514150",
+    "regency_id": "3514",
+    "name": "BANGIL",
+    "alt_name": "Bangil, Sidowayah, Beji, Pasuruan, Jawa Timur, Indonesia",
+    "latitude": -7.60498,
+    "longitude": 112.7751
+  },
+  {
+    "id": "3514160",
+    "regency_id": "3514",
+    "name": "REMBANG",
+    "alt_name": "Rembang, Rembang Sub-District, Rembang Regency, Central Java, Indonesia",
+    "latitude": -6.70656,
+    "longitude": 111.33729
+  },
+  {
+    "id": "3514170",
+    "regency_id": "3514",
+    "name": "KRATON",
+    "alt_name": "Kraton, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+    "latitude": -7.80903,
+    "longitude": 110.36365
+  },
+  {
+    "id": "3514180",
+    "regency_id": "3514",
+    "name": "POHJENTREK",
+    "alt_name": "Pohjentrek, Pasuruan, East Java, Indonesia",
+    "latitude": -7.67861,
+    "longitude": 112.87609
+  },
+  {
+    "id": "3514190",
+    "regency_id": "3514",
+    "name": "GONDANG WETAN",
+    "alt_name": "Gondang Wetan, Pasuruan, East Java, Indonesia",
+    "latitude": -7.7117,
+    "longitude": 112.9178
+  },
+  {
+    "id": "3514200",
+    "regency_id": "3514",
+    "name": "REJOSO",
+    "alt_name": "Rejoso, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.49397,
+    "longitude": 111.88071
+  },
+  {
+    "id": "3514210",
+    "regency_id": "3514",
+    "name": "WINONGAN",
+    "alt_name": "Winongan, Pasuruan, East Java, Indonesia",
+    "latitude": -7.75087,
+    "longitude": 112.94163
+  },
+  {
+    "id": "3514220",
+    "regency_id": "3514",
+    "name": "GRATI",
+    "alt_name": "Grati, Pasuruan, East Java, Indonesia",
+    "latitude": -7.74682,
+    "longitude": 113.01311
+  },
+  {
+    "id": "3514230",
+    "regency_id": "3514",
+    "name": "LEKOK",
+    "alt_name": "Lekok, Pasuruan, East Java, Indonesia",
+    "latitude": -7.66587,
+    "longitude": 113.01311
+  },
+  {
+    "id": "3514240",
+    "regency_id": "3514",
+    "name": "NGULING",
+    "alt_name": "Nguling, Pasuruan, East Java, Indonesia",
+    "latitude": -7.70364,
+    "longitude": 113.06077
+  },
+  {
+    "id": "3515010",
+    "regency_id": "3515",
+    "name": "TARIK",
+    "alt_name": "Tarik, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.45059,
+    "longitude": 112.51259
+  },
+  {
+    "id": "3515020",
+    "regency_id": "3515",
+    "name": "PRAMBON",
+    "alt_name": "Prambon, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.46699,
+    "longitude": 112.58411
+  },
+  {
+    "id": "3515030",
+    "regency_id": "3515",
+    "name": "KREMBUNG",
+    "alt_name": "Krembung Sub-District, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.51971,
+    "longitude": 112.63774
+  },
+  {
+    "id": "3515040",
+    "regency_id": "3515",
+    "name": "PORONG",
+    "alt_name": "Porong, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.52659,
+    "longitude": 112.69734
+  },
+  {
+    "id": "3515050",
+    "regency_id": "3515",
+    "name": "JABON",
+    "alt_name": "Jabon, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.55906,
+    "longitude": 112.75097
+  },
+  {
+    "id": "3515060",
+    "regency_id": "3515",
+    "name": "TANGGULANGIN",
+    "alt_name": "Tanggulangin, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.51454,
+    "longitude": 112.73309
+  },
+  {
+    "id": "3515070",
+    "regency_id": "3515",
+    "name": "CANDI",
+    "alt_name": "Candi, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.48423,
+    "longitude": 112.73309
+  },
+  {
+    "id": "3515080",
+    "regency_id": "3515",
+    "name": "TULANGAN",
+    "alt_name": "Tulangan, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.47863,
+    "longitude": 112.64966
+  },
+  {
+    "id": "3515090",
+    "regency_id": "3515",
+    "name": "WONOAYU",
+    "alt_name": "Wonoayu, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.42403,
+    "longitude": 112.63178
+  },
+  {
+    "id": "3515100",
+    "regency_id": "3515",
+    "name": "SUKODONO",
+    "alt_name": "Sukodono, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.39467,
+    "longitude": 112.67379
+  },
+  {
+    "id": "3515110",
+    "regency_id": "3515",
+    "name": "SIDOARJO",
+    "alt_name": "Sidoarjo, Sidoarjo Sub-Distrcit, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.44977,
+    "longitude": 112.70155
+  },
+  {
+    "id": "3515120",
+    "regency_id": "3515",
+    "name": "BUDURAN",
+    "alt_name": "Buduran, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.43246,
+    "longitude": 112.75692
+  },
+  {
+    "id": "3515130",
+    "regency_id": "3515",
+    "name": "SEDATI",
+    "alt_name": "Sedati, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.39491,
+    "longitude": 112.79863
+  },
+  {
+    "id": "3515131",
+    "regency_id": "3515",
+    "name": "BANDARA JUANDA",
+    "alt_name": "Bandara Juanda, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.39491,
+    "longitude": 112.79863
+  },
+  {
+    "id": "3515140",
+    "regency_id": "3515",
+    "name": "WARU",
+    "alt_name": "Waru, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.35114,
+    "longitude": 112.76884
+  },
+  {
+    "id": "3515150",
+    "regency_id": "3515",
+    "name": "GEDANGAN",
+    "alt_name": "Gedangan, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.39338,
+    "longitude": 112.73309
+  },
+  {
+    "id": "3515160",
+    "regency_id": "3515",
+    "name": "TAMAN",
+    "alt_name": "Taman, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.3663,
+    "longitude": 112.6735
+  },
+  {
+    "id": "3515170",
+    "regency_id": "3515",
+    "name": "KRIAN",
+    "alt_name": "Krian, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.40101,
+    "longitude": 112.59007
+  },
+  {
+    "id": "3515180",
+    "regency_id": "3515",
+    "name": "BALONG BENDO",
+    "alt_name": "Balong Bendo, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.41427,
+    "longitude": 112.53047
+  },
+  {
+    "id": "3516010",
+    "regency_id": "3516",
+    "name": "JATIREJO",
+    "alt_name": "Jatirejo, Mojokerto, East Java, Indonesia",
+    "latitude": -7.61773,
+    "longitude": 112.41723
+  },
+  {
+    "id": "3516020",
+    "regency_id": "3516",
+    "name": "GONDANG",
+    "alt_name": "Gondang, Sragen Regency, Central Java, Indonesia",
+    "latitude": -7.44173,
+    "longitude": 111.10565
+  },
+  {
+    "id": "3516030",
+    "regency_id": "3516",
+    "name": "PACET",
+    "alt_name": "Pacet, Bandung, West Java, Indonesia",
+    "latitude": -7.12049,
+    "longitude": 107.70441
+  },
+  {
+    "id": "3516040",
+    "regency_id": "3516",
+    "name": "TRAWAS",
+    "alt_name": "Trawas, Mojokerto, East Java, Indonesia",
+    "latitude": -7.64788,
+    "longitude": 112.60795
+  },
+  {
+    "id": "3516050",
+    "regency_id": "3516",
+    "name": "NGORO",
+    "alt_name": "Ngoro, Mojokerto, East Java, Indonesia",
+    "latitude": -7.55766,
+    "longitude": 112.62817
+  },
+  {
+    "id": "3516060",
+    "regency_id": "3516",
+    "name": "PUNGGING",
+    "alt_name": "Pungging, Mojokerto, East Java, Indonesia",
+    "latitude": -7.5416,
+    "longitude": 112.56957
+  },
+  {
+    "id": "3516070",
+    "regency_id": "3516",
+    "name": "KUTOREJO",
+    "alt_name": "Kutorejo, Mojokerto, East Java, Indonesia",
+    "latitude": -7.57203,
+    "longitude": 112.51259
+  },
+  {
+    "id": "3516080",
+    "regency_id": "3516",
+    "name": "MOJOSARI",
+    "alt_name": "Mojosari, Mojokerto, East Java, Indonesia",
+    "latitude": -7.5046,
+    "longitude": 112.54233
+  },
+  {
+    "id": "3516090",
+    "regency_id": "3516",
+    "name": "BANGSAL",
+    "alt_name": "Bangsal, Mojokerto, East Java, Indonesia",
+    "latitude": -7.50718,
+    "longitude": 112.49471
+  },
+  {
+    "id": "3516091",
+    "regency_id": "3516",
+    "name": "MOJOANYAR",
+    "alt_name": "Mojoanyar, Mojokerto, East Java, Indonesia",
+    "latitude": -7.47747,
+    "longitude": 112.48279
+  },
+  {
+    "id": "3516100",
+    "regency_id": "3516",
+    "name": "DLANGGU",
+    "alt_name": "Dlanggu, Mojokerto, East Java, Indonesia",
+    "latitude": -7.56922,
+    "longitude": 112.47087
+  },
+  {
+    "id": "3516110",
+    "regency_id": "3516",
+    "name": "PURI",
+    "alt_name": "Puri, Mojokerto, East Java, Indonesia",
+    "latitude": -7.53537,
+    "longitude": 112.44107
+  },
+  {
+    "id": "3516120",
+    "regency_id": "3516",
+    "name": "TROWULAN",
+    "alt_name": "Trowulan, Mojokerto, East Java, Indonesia",
+    "latitude": -7.55345,
+    "longitude": 112.38742
+  },
+  {
+    "id": "3516130",
+    "regency_id": "3516",
+    "name": "SOOKO",
+    "alt_name": "Sooko, Mojokerto, East Java, Indonesia",
+    "latitude": -7.50152,
+    "longitude": 112.41127
+  },
+  {
+    "id": "3516140",
+    "regency_id": "3516",
+    "name": "GEDEK",
+    "alt_name": "Gedek, Mojokerto, East Java, Indonesia",
+    "latitude": -7.44144,
+    "longitude": 112.39934
+  },
+  {
+    "id": "3516150",
+    "regency_id": "3516",
+    "name": "KEMLAGI",
+    "alt_name": "Kemlagi, Mojokerto, East Java, Indonesia",
+    "latitude": -7.3975,
+    "longitude": 112.36954
+  },
+  {
+    "id": "3516160",
+    "regency_id": "3516",
+    "name": "JETIS",
+    "alt_name": "Jetis, Bantul Regency, Special Region of Yogyakarta, Indonesia",
+    "latitude": -7.91477,
+    "longitude": 110.36067
+  },
+  {
+    "id": "3516170",
+    "regency_id": "3516",
+    "name": "DAWAR BLANDONG",
+    "alt_name": "Dawar Blandong, Mojokerto, East Java, Indonesia",
+    "latitude": -7.33438,
+    "longitude": 112.41723
+  },
+  {
+    "id": "3517010",
+    "regency_id": "3517",
+    "name": "BANDAR KEDUNG MULYO",
+    "alt_name": "Bandar Kedung Mulyo, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.56681,
+    "longitude": 112.13706
+  },
+  {
+    "id": "3517020",
+    "regency_id": "3517",
+    "name": "PERAK",
+    "alt_name": "Perak, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.57506,
+    "longitude": 112.17283
+  },
+  {
+    "id": "3517030",
+    "regency_id": "3517",
+    "name": "GUDO",
+    "alt_name": "Gudo, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.62455,
+    "longitude": 112.19667
+  },
+  {
+    "id": "3517040",
+    "regency_id": "3517",
+    "name": "DIWEK",
+    "alt_name": "Diwek, Ceweng, Diwek, Kabupaten Jombang, Jawa Timur, Indonesia",
+    "latitude": -7.58333,
+    "longitude": 112.23333
+  },
+  {
+    "id": "3517050",
+    "regency_id": "3517",
+    "name": "NGORO",
+    "alt_name": "Ngoro, Mojokerto, East Java, Indonesia",
+    "latitude": -7.55766,
+    "longitude": 112.62817
+  },
+  {
+    "id": "3517060",
+    "regency_id": "3517",
+    "name": "MOJOWARNO",
+    "alt_name": "Mojowarno, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.62289,
+    "longitude": 112.32186
+  },
+  {
+    "id": "3517070",
+    "regency_id": "3517",
+    "name": "BARENG",
+    "alt_name": "Bareng, Mojotengah, Bareng, Kabupaten Jombang, Jawa Timur, Indonesia",
+    "latitude": -7.66667,
+    "longitude": 112.3
+  },
+  {
+    "id": "3517080",
+    "regency_id": "3517",
+    "name": "WONOSALAM",
+    "alt_name": "Wonosalam, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.72054,
+    "longitude": 112.39338
+  },
+  {
+    "id": "3517090",
+    "regency_id": "3517",
+    "name": "MOJOAGUNG",
+    "alt_name": "Mojoagung, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.62032,
+    "longitude": 112.36954
+  },
+  {
+    "id": "3517100",
+    "regency_id": "3517",
+    "name": "SUMOBITO",
+    "alt_name": "Sumobito, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.52149,
+    "longitude": 112.32186
+  },
+  {
+    "id": "3517110",
+    "regency_id": "3517",
+    "name": "JOGO ROTO",
+    "alt_name": "Jogo Roto, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.56933,
+    "longitude": 112.28013
+  },
+  {
+    "id": "3517120",
+    "regency_id": "3517",
+    "name": "PETERONGAN",
+    "alt_name": "Peterongan, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.51864,
+    "longitude": 112.28013
+  },
+  {
+    "id": "3517130",
+    "regency_id": "3517",
+    "name": "JOMBANG",
+    "alt_name": "Jombang Regency, East Java, Indonesia",
+    "latitude": -7.57409,
+    "longitude": 112.28609
+  },
+  {
+    "id": "3517140",
+    "regency_id": "3517",
+    "name": "MEGALUH",
+    "alt_name": "Megaluh, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.50342,
+    "longitude": 112.18475
+  },
+  {
+    "id": "3517150",
+    "regency_id": "3517",
+    "name": "TEMBELANG",
+    "alt_name": "Tembelang, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.48475,
+    "longitude": 112.25032
+  },
+  {
+    "id": "3517160",
+    "regency_id": "3517",
+    "name": "KESAMBEN",
+    "alt_name": "Kesamben, Blitar, East Java, Indonesia",
+    "latitude": -8.15,
+    "longitude": 112.36954
+  },
+  {
+    "id": "3517170",
+    "regency_id": "3517",
+    "name": "KUDU",
+    "alt_name": "Kudu, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.42149,
+    "longitude": 112.29801
+  },
+  {
+    "id": "3517171",
+    "regency_id": "3517",
+    "name": "NGUSIKAN",
+    "alt_name": "Ngusikan, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.37978,
+    "longitude": 112.32186
+  },
+  {
+    "id": "3517180",
+    "regency_id": "3517",
+    "name": "PLOSO",
+    "alt_name": "Ploso, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.44012,
+    "longitude": 112.23244
+  },
+  {
+    "id": "3517190",
+    "regency_id": "3517",
+    "name": "KABUH",
+    "alt_name": "Kabuh, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.386,
+    "longitude": 112.20263
+  },
+  {
+    "id": "3517200",
+    "regency_id": "3517",
+    "name": "PLANDAAN",
+    "alt_name": "Plandaan, Jombang Regency, East Java, Indonesia",
+    "latitude": -7.43023,
+    "longitude": 112.1311
+  },
+  {
+    "id": "3518010",
+    "regency_id": "3518",
+    "name": "SAWAHAN",
+    "alt_name": "Sawahan, Surabaya City, East Java, Indonesia",
+    "latitude": -7.26301,
+    "longitude": 112.72117
+  },
+  {
+    "id": "3518020",
+    "regency_id": "3518",
+    "name": "NGETOS",
+    "alt_name": "Ngetos, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.75155,
+    "longitude": 111.82109
+  },
+  {
+    "id": "3518030",
+    "regency_id": "3518",
+    "name": "BERBEK",
+    "alt_name": "Berbek, Sumberwindu, Berbek, Kabupaten Nganjuk, Jawa Timur, Indonesia",
+    "latitude": -7.65,
+    "longitude": 111.86667
+  },
+  {
+    "id": "3518040",
+    "regency_id": "3518",
+    "name": "LOCERET",
+    "alt_name": "Loceret, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.749,
+    "longitude": 111.86878
+  },
+  {
+    "id": "3518050",
+    "regency_id": "3518",
+    "name": "PACE",
+    "alt_name": "Pace, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.68531,
+    "longitude": 111.91648
+  },
+  {
+    "id": "3518060",
+    "regency_id": "3518",
+    "name": "TANJUNGANOM",
+    "alt_name": "Tanjunganom, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.64079,
+    "longitude": 111.98802
+  },
+  {
+    "id": "3518070",
+    "regency_id": "3518",
+    "name": "PRAMBON",
+    "alt_name": "Prambon, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.46699,
+    "longitude": 112.58411
+  },
+  {
+    "id": "3518080",
+    "regency_id": "3518",
+    "name": "NGRONGGOT",
+    "alt_name": "Ngronggot, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.67765,
+    "longitude": 112.05956
+  },
+  {
+    "id": "3518090",
+    "regency_id": "3518",
+    "name": "KERTOSONO",
+    "alt_name": "Kertosono, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.60997,
+    "longitude": 112.08937
+  },
+  {
+    "id": "3518100",
+    "regency_id": "3518",
+    "name": "PATIANROWO",
+    "alt_name": "Patianrowo, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.54841,
+    "longitude": 112.10129
+  },
+  {
+    "id": "3518110",
+    "regency_id": "3518",
+    "name": "BARON",
+    "alt_name": "Baron, Warujayeng, Tanjunganom, Kabupaten Nganjuk, Jawa Timur, Indonesia",
+    "latitude": -7.61667,
+    "longitude": 112.03333
+  },
+  {
+    "id": "3518120",
+    "regency_id": "3518",
+    "name": "GONDANG",
+    "alt_name": "Gondang, Sragen Regency, Central Java, Indonesia",
+    "latitude": -7.44173,
+    "longitude": 111.10565
+  },
+  {
+    "id": "3518130",
+    "regency_id": "3518",
+    "name": "SUKOMORO",
+    "alt_name": "Sukomoro, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.60137,
+    "longitude": 111.96417
+  },
+  {
+    "id": "3518140",
+    "regency_id": "3518",
+    "name": "NGANJUK",
+    "alt_name": "Nganjuk, Nganjuk Sub-District, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.60437,
+    "longitude": 111.89935
+  },
+  {
+    "id": "3518150",
+    "regency_id": "3518",
+    "name": "BAGOR",
+    "alt_name": "Bogor, Bogor City, West Java, Indonesia",
+    "latitude": -6.59715,
+    "longitude": 106.80604
+  },
+  {
+    "id": "3518160",
+    "regency_id": "3518",
+    "name": "WILANGAN",
+    "alt_name": "Wilangan, Kabupaten Nganjuk, Jawa Timur, Indonesia",
+    "latitude": -7.56429,
+    "longitude": 111.7995
+  },
+  {
+    "id": "3518170",
+    "regency_id": "3518",
+    "name": "REJOSO",
+    "alt_name": "Rejoso, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.49397,
+    "longitude": 111.88071
+  },
+  {
+    "id": "3518180",
+    "regency_id": "3518",
+    "name": "NGLUYU",
+    "alt_name": "Ngluyu, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.43767,
+    "longitude": 111.98802
+  },
+  {
+    "id": "3518190",
+    "regency_id": "3518",
+    "name": "LENGKONG",
+    "alt_name": "Lengkong, Bandung City, West Java, Indonesia",
+    "latitude": -6.93269,
+    "longitude": 107.62745
+  },
+  {
+    "id": "3518200",
+    "regency_id": "3518",
+    "name": "JATIKALEN",
+    "alt_name": "Jatikalen, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.49104,
+    "longitude": 112.1311
+  },
+  {
+    "id": "3519010",
+    "regency_id": "3519",
+    "name": "KEBONSARI",
+    "alt_name": "Kebonsari, Madiun, East Java, Indonesia",
+    "latitude": -7.74885,
+    "longitude": 111.48721
+  },
+  {
+    "id": "3519020",
+    "regency_id": "3519",
+    "name": "GEGER",
+    "alt_name": "Geger, Madiun, East Java, Indonesia",
+    "latitude": -7.7109,
+    "longitude": 111.52894
+  },
+  {
+    "id": "3519030",
+    "regency_id": "3519",
+    "name": "DOLOPO",
+    "alt_name": "Dolopo, Madiun, East Java, Indonesia",
+    "latitude": -7.78721,
+    "longitude": 111.53491
+  },
+  {
+    "id": "3519040",
+    "regency_id": "3519",
+    "name": "DAGANGAN",
+    "alt_name": "Dagangan, Madiun, East Java, Indonesia",
+    "latitude": -7.74382,
+    "longitude": 111.5826
+  },
+  {
+    "id": "3519050",
+    "regency_id": "3519",
+    "name": "WUNGU",
+    "alt_name": "Wungu, Madiun, East Java, Indonesia",
+    "latitude": -7.66092,
+    "longitude": 111.60645
+  },
+  {
+    "id": "3519060",
+    "regency_id": "3519",
+    "name": "KARE",
+    "alt_name": "Kare, Madiun, East Java, Indonesia",
+    "latitude": -7.71836,
+    "longitude": 111.678
+  },
+  {
+    "id": "3519070",
+    "regency_id": "3519",
+    "name": "GEMARANG",
+    "alt_name": "Gemarang, Madiun, East Java, Indonesia",
+    "latitude": -7.63304,
+    "longitude": 111.74954
+  },
+  {
+    "id": "3519080",
+    "regency_id": "3519",
+    "name": "SARADAN",
+    "alt_name": "Saradan, Madiun, East Java, Indonesia",
+    "latitude": -7.50138,
+    "longitude": 111.73762
+  },
+  {
+    "id": "3519090",
+    "regency_id": "3519",
+    "name": "PILANGKENCENG",
+    "alt_name": "Pilangkenceng, Madiun, East Java, Indonesia",
+    "latitude": -7.47517,
+    "longitude": 111.65415
+  },
+  {
+    "id": "3519100",
+    "regency_id": "3519",
+    "name": "MEJAYAN",
+    "alt_name": "Mejayan, Madiun, East Java, Indonesia",
+    "latitude": -7.57082,
+    "longitude": 111.67551
+  },
+  {
+    "id": "3519110",
+    "regency_id": "3519",
+    "name": "WONOASRI",
+    "alt_name": "Wonoasri, Madiun, East Java, Indonesia",
+    "latitude": -7.59852,
+    "longitude": 111.6303
+  },
+  {
+    "id": "3519120",
+    "regency_id": "3519",
+    "name": "BALEREJO",
+    "alt_name": "Balerejo, Madiun, East Java, Indonesia",
+    "latitude": -7.53866,
+    "longitude": 111.60645
+  },
+  {
+    "id": "3519130",
+    "regency_id": "3519",
+    "name": "MADIUN",
+    "alt_name": "Madiun, Madiun City, East Java, Indonesia",
+    "latitude": -7.63106,
+    "longitude": 111.53002
+  },
+  {
+    "id": "3519140",
+    "regency_id": "3519",
+    "name": "SAWAHAN",
+    "alt_name": "Sawahan, Surabaya City, East Java, Indonesia",
+    "latitude": -7.26301,
+    "longitude": 112.72117
+  },
+  {
+    "id": "3519150",
+    "regency_id": "3519",
+    "name": "JIWAN",
+    "alt_name": "Jiwan, Madiun, East Java, Indonesia",
+    "latitude": -7.61073,
+    "longitude": 111.49317
+  },
+  {
+    "id": "3520010",
+    "regency_id": "3520",
+    "name": "PONCOL",
+    "alt_name": "Poncol, Magetan Regency, East Java, Indonesia",
+    "latitude": -7.71916,
+    "longitude": 111.27258
+  },
+  {
+    "id": "3520020",
+    "regency_id": "3520",
+    "name": "PARANG",
+    "alt_name": "Parang, Magetan Regency, East Java, Indonesia",
+    "latitude": -7.75635,
+    "longitude": 111.34412
+  },
+  {
+    "id": "3520030",
+    "regency_id": "3520",
+    "name": "LEMBEYAN",
+    "alt_name": "Lembeyan, Magetan Regency, East Java, Indonesia",
+    "latitude": -7.7526,
+    "longitude": 111.41566
+  },
+  {
+    "id": "3520040",
+    "regency_id": "3520",
+    "name": "TAKERAN",
+    "alt_name": "Takeran, Magetan Regency, East Java, Indonesia",
+    "latitude": -7.68277,
+    "longitude": 111.48125
+  },
+  {
+    "id": "3520041",
+    "regency_id": "3520",
+    "name": "NGUNTORONADI",
+    "alt_name": "Nguntoronadi, Wonogiri Regency, Central Java, Indonesia",
+    "latitude": -7.89928,
+    "longitude": 110.96259
+  },
+  {
+    "id": "3520050",
+    "regency_id": "3520",
+    "name": "KAWEDANAN",
+    "alt_name": "Kawedanan, Magetan Regency, East Java, Indonesia",
+    "latitude": -7.69671,
+    "longitude": 111.4097
+  },
+  {
+    "id": "3520060",
+    "regency_id": "3520",
+    "name": "MAGETAN",
+    "alt_name": "Magetan, Magetan Sub-District, Magetan Regency, East Java, Indonesia",
+    "latitude": -7.64934,
+    "longitude": 111.33816
+  },
+  {
+    "id": "3520061",
+    "regency_id": "3520",
+    "name": "NGARIBOYO",
+    "alt_name": "Ngariboyo, Magetan Regency, East Java, Indonesia",
+    "latitude": -7.6902,
+    "longitude": 111.33816
+  },
+  {
+    "id": "3520070",
+    "regency_id": "3520",
+    "name": "PLAOSAN",
+    "alt_name": "Plaosan, Magetan Regency, East Java, Indonesia",
+    "latitude": -7.68072,
+    "longitude": 111.22489
+  },
+  {
+    "id": "3520071",
+    "regency_id": "3520",
+    "name": "SIDOREJO",
+    "alt_name": "Sidorejo, Salatiga City, Central Java, Indonesia",
+    "latitude": -7.30552,
+    "longitude": 110.49473
+  },
+  {
+    "id": "3520080",
+    "regency_id": "3520",
+    "name": "PANEKAN",
+    "alt_name": "Panekan, Magetan Regency, East Java, Indonesia",
+    "latitude": -7.61819,
+    "longitude": 111.24873
+  },
+  {
+    "id": "3520090",
+    "regency_id": "3520",
+    "name": "SUKOMORO",
+    "alt_name": "Sukomoro, Nganjuk Regency, East Java, Indonesia",
+    "latitude": -7.60137,
+    "longitude": 111.96417
+  },
+  {
+    "id": "3520100",
+    "regency_id": "3520",
+    "name": "BENDO",
+    "alt_name": "Bendo, Magetan Regency, East Java, Indonesia",
+    "latitude": -7.64921,
+    "longitude": 111.43951
+  },
+  {
+    "id": "3520110",
+    "regency_id": "3520",
+    "name": "MAOSPATI",
+    "alt_name": "Maospati, Suratmajan, Maospati, Kabupaten Magetan, Jawa Timur, Indonesia",
+    "latitude": -7.60628,
+    "longitude": 111.453
+  },
+  {
+    "id": "3520120",
+    "regency_id": "3520",
+    "name": "KARANGREJO",
+    "alt_name": "Karangrejo, Garum, Blitar, East Java, Indonesia",
+    "latitude": -8.01901,
+    "longitude": 112.25392
+  },
+  {
+    "id": "3520121",
+    "regency_id": "3520",
+    "name": "KARAS",
+    "alt_name": "Karas, Kabupaten Fakfak, Papua Bar., Indonesia",
+    "latitude": -3.47062,
+    "longitude": 132.69783
+  },
+  {
+    "id": "3520130",
+    "regency_id": "3520",
+    "name": "BARAT",
+    "alt_name": "Barat, Magetan Regency, East Java, Indonesia",
+    "latitude": -7.55141,
+    "longitude": 111.4574
+  },
+  {
+    "id": "3520131",
+    "regency_id": "3520",
+    "name": "KARTOHARJO",
+    "alt_name": "Kartoharjo, Madiun City, East Java, Indonesia",
+    "latitude": -7.61845,
+    "longitude": 111.54087
+  },
+  {
+    "id": "3521010",
+    "regency_id": "3521",
+    "name": "SINE",
+    "alt_name": "Sine, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.56056,
+    "longitude": 111.17719
+  },
+  {
+    "id": "3521020",
+    "regency_id": "3521",
+    "name": "NGRAMBE",
+    "alt_name": "Ngrambe, Sidomulyo, Ngrambe, Kabupaten Ngawi, Jawa Timur, Indonesia",
+    "latitude": -7.5,
+    "longitude": 111.2
+  },
+  {
+    "id": "3521030",
+    "regency_id": "3521",
+    "name": "JOGOROGO",
+    "alt_name": "Jogorogo, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.53654,
+    "longitude": 111.24873
+  },
+  {
+    "id": "3521040",
+    "regency_id": "3521",
+    "name": "KENDAL",
+    "alt_name": "Kendal Regency, Central Java, Indonesia",
+    "latitude": -7.02654,
+    "longitude": 110.18791
+  },
+  {
+    "id": "3521050",
+    "regency_id": "3521",
+    "name": "GENENG",
+    "alt_name": "Geneng, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.48732,
+    "longitude": 111.41566
+  },
+  {
+    "id": "3521051",
+    "regency_id": "3521",
+    "name": "GERIH",
+    "alt_name": "Gerih, Kabupaten Ngawi, Jawa Timur, Indonesia",
+    "latitude": -7.51667,
+    "longitude": 111.4
+  },
+  {
+    "id": "3521060",
+    "regency_id": "3521",
+    "name": "KWADUNGAN",
+    "alt_name": "Kwadungan, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.50823,
+    "longitude": 111.5051
+  },
+  {
+    "id": "3521070",
+    "regency_id": "3521",
+    "name": "PANGKUR",
+    "alt_name": "Pangkur, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.50162,
+    "longitude": 111.53491
+  },
+  {
+    "id": "3521080",
+    "regency_id": "3521",
+    "name": "KARANGJATI",
+    "alt_name": "Karangjati, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.45849,
+    "longitude": 111.5826
+  },
+  {
+    "id": "3521090",
+    "regency_id": "3521",
+    "name": "BRINGIN",
+    "alt_name": "Bringin, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.39751,
+    "longitude": 111.5826
+  },
+  {
+    "id": "3521100",
+    "regency_id": "3521",
+    "name": "PADAS",
+    "alt_name": "Padas, Pd. Damar, Mentaya Hilir Utara, Kabupaten Kotawaringin Timur, Kalimantan Tengah, Indonesia",
+    "latitude": -2.5765,
+    "longitude": 112.542
+  },
+  {
+    "id": "3521101",
+    "regency_id": "3521",
+    "name": "KASREMAN",
+    "alt_name": "Kasreman, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.40112,
+    "longitude": 111.51106
+  },
+  {
+    "id": "3521110",
+    "regency_id": "3521",
+    "name": "NGAWI",
+    "alt_name": "Ngawi, Ngawi Sub-District, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.41907,
+    "longitude": 111.4574
+  },
+  {
+    "id": "3521120",
+    "regency_id": "3521",
+    "name": "PARON",
+    "alt_name": "Paron, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.48015,
+    "longitude": 111.35604
+  },
+  {
+    "id": "3521130",
+    "regency_id": "3521",
+    "name": "KEDUNGGALAR",
+    "alt_name": "Kedunggalar, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.43104,
+    "longitude": 111.32027
+  },
+  {
+    "id": "3521140",
+    "regency_id": "3521",
+    "name": "PITU",
+    "alt_name": "Pitu, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.34848,
+    "longitude": 111.34412
+  },
+  {
+    "id": "3521150",
+    "regency_id": "3521",
+    "name": "WIDODAREN",
+    "alt_name": "Widodaren, Ngawi Regency, East Java, Indonesia",
+    "latitude": -7.41544,
+    "longitude": 111.22489
+  },
+  {
+    "id": "3521160",
+    "regency_id": "3521",
+    "name": "MANTINGAN",
+    "alt_name": "Mantingan, Bulu, Kabupaten Rembang, Jawa Tengah, Indonesia",
+    "latitude": -6.86667,
+    "longitude": 111.41667
+  },
+  {
+    "id": "3521170",
+    "regency_id": "3521",
+    "name": "KARANGANYAR",
+    "alt_name": "Karanganyar, Kec. Karanganyar, Kabupaten Karanganyar, Jawa Tengah, Indonesia",
+    "latitude": -7.60707,
+    "longitude": 110.98669
+  },
+  {
+    "id": "3522010",
+    "regency_id": "3522",
+    "name": "MARGOMULYO",
+    "alt_name": "Margomulyo, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.32106,
+    "longitude": 111.48721
+  },
+  {
+    "id": "3522020",
+    "regency_id": "3522",
+    "name": "NGRAHO",
+    "alt_name": "Ngraho, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.23637,
+    "longitude": 111.55875
+  },
+  {
+    "id": "3522030",
+    "regency_id": "3522",
+    "name": "TAMBAKREJO",
+    "alt_name": "Tambakrejo, Sumbermanjing, Malang, East Java, Indonesia",
+    "latitude": -8.41211,
+    "longitude": 112.69734
+  },
+  {
+    "id": "3522040",
+    "regency_id": "3522",
+    "name": "NGAMBON",
+    "alt_name": "Ngambon, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.3294,
+    "longitude": 111.72569
+  },
+  {
+    "id": "3522041",
+    "regency_id": "3522",
+    "name": "SEKAR",
+    "alt_name": "Sekar, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.41056,
+    "longitude": 111.72569
+  },
+  {
+    "id": "3522050",
+    "regency_id": "3522",
+    "name": "BUBULAN",
+    "alt_name": "Bubulan, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.32458,
+    "longitude": 111.82109
+  },
+  {
+    "id": "3522051",
+    "regency_id": "3522",
+    "name": "GONDANG",
+    "alt_name": "Gondang, Sragen Regency, Central Java, Indonesia",
+    "latitude": -7.44173,
+    "longitude": 111.10565
+  },
+  {
+    "id": "3522060",
+    "regency_id": "3522",
+    "name": "TEMAYANG",
+    "alt_name": "Temayang, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.36026,
+    "longitude": 111.91648
+  },
+  {
+    "id": "3522070",
+    "regency_id": "3522",
+    "name": "SUGIHWARAS",
+    "alt_name": "Sugihwaras, Sugi Waras, Kec. Tebing Tinggi, Kabupaten Empat Lawang, Sumatera Selatan, Indonesia",
+    "latitude": -3.4775,
+    "longitude": 103.1691
+  },
+  {
+    "id": "3522080",
+    "regency_id": "3522",
+    "name": "KEDUNGADEM",
+    "alt_name": "Kedungadem, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.31367,
+    "longitude": 112.03571
+  },
+  {
+    "id": "3522090",
+    "regency_id": "3522",
+    "name": "KEPOH BARU",
+    "alt_name": "Kepoh Baru, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.18997,
+    "longitude": 112.08341
+  },
+  {
+    "id": "3522100",
+    "regency_id": "3522",
+    "name": "BAURENO",
+    "alt_name": "Baureno, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.12944,
+    "longitude": 112.08341
+  },
+  {
+    "id": "3522110",
+    "regency_id": "3522",
+    "name": "KANOR",
+    "alt_name": "Kanor, Karangtinoto, Rengel, Kabupaten Tuban, Jawa Timur, Indonesia",
+    "latitude": -7.1,
+    "longitude": 112
+  },
+  {
+    "id": "3522120",
+    "regency_id": "3522",
+    "name": "SUMBEREJO",
+    "alt_name": "Sumberejo, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.20307,
+    "longitude": 112.02379
+  },
+  {
+    "id": "3522130",
+    "regency_id": "3522",
+    "name": "BALEN",
+    "alt_name": "Bali, Indonesia",
+    "latitude": -8.40952,
+    "longitude": 115.18892
+  },
+  {
+    "id": "3522140",
+    "regency_id": "3522",
+    "name": "SUKOSEWU",
+    "alt_name": "Sukosewu, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.25782,
+    "longitude": 111.94033
+  },
+  {
+    "id": "3522150",
+    "regency_id": "3522",
+    "name": "KAPAS",
+    "alt_name": "Kapas, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.19955,
+    "longitude": 111.89263
+  },
+  {
+    "id": "3522160",
+    "regency_id": "3522",
+    "name": "BOJONEGORO",
+    "alt_name": "Bojonegoro, Bojonegoro Sub-District, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.15248,
+    "longitude": 111.88693
+  },
+  {
+    "id": "3522170",
+    "regency_id": "3522",
+    "name": "TRUCUK",
+    "alt_name": "Trucuk, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.12494,
+    "longitude": 111.81811
+  },
+  {
+    "id": "3522180",
+    "regency_id": "3522",
+    "name": "DANDER",
+    "alt_name": "Dander, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.2531,
+    "longitude": 111.83301
+  },
+  {
+    "id": "3522190",
+    "regency_id": "3522",
+    "name": "NGASEM",
+    "alt_name": "Ngasem, Kediri, East Java, Indonesia",
+    "latitude": -7.80527,
+    "longitude": 112.0536
+  },
+  {
+    "id": "3522191",
+    "regency_id": "3522",
+    "name": "GAYAM",
+    "alt_name": "Gayam, Sukoharjo Sub-District, Sukoharjo Regency, Central Java, Indonesia",
+    "latitude": -7.68691,
+    "longitude": 110.85231
+  },
+  {
+    "id": "3522200",
+    "regency_id": "3522",
+    "name": "KALITIDU",
+    "alt_name": "Kalitidu, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.14482,
+    "longitude": 111.77339
+  },
+  {
+    "id": "3522210",
+    "regency_id": "3522",
+    "name": "MALO",
+    "alt_name": "Malo, Sudah, Malo, Kabupaten Bojonegoro, Jawa Timur, Indonesia",
+    "latitude": -7.11667,
+    "longitude": 111.71667
+  },
+  {
+    "id": "3522220",
+    "regency_id": "3522",
+    "name": "PURWOSARI",
+    "alt_name": "Purwosari, Pasuruan, East Java, Indonesia",
+    "latitude": -7.76295,
+    "longitude": 112.72713
+  },
+  {
+    "id": "3522230",
+    "regency_id": "3522",
+    "name": "PADANGAN",
+    "alt_name": "Padangan, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.1935,
+    "longitude": 111.60645
+  },
+  {
+    "id": "3522240",
+    "regency_id": "3522",
+    "name": "KASIMAN",
+    "alt_name": "Kasiman, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.13162,
+    "longitude": 111.6303
+  },
+  {
+    "id": "3522241",
+    "regency_id": "3522",
+    "name": "KEDEWAN",
+    "alt_name": "Kedewan, Bojonegoro Regency, East Java, Indonesia",
+    "latitude": -7.01039,
+    "longitude": 111.6303
+  },
+  {
+    "id": "3523010",
+    "regency_id": "3523",
+    "name": "KENDURUAN",
+    "alt_name": "Kenduruan, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.93921,
+    "longitude": 111.64222
+  },
+  {
+    "id": "3523020",
+    "regency_id": "3523",
+    "name": "BANGILAN",
+    "alt_name": "Bangilan, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.96661,
+    "longitude": 111.70185
+  },
+  {
+    "id": "3523030",
+    "regency_id": "3523",
+    "name": "SENORI",
+    "alt_name": "Senori, Tuban Regency, East Java, Indonesia",
+    "latitude": -7.05567,
+    "longitude": 111.73762
+  },
+  {
+    "id": "3523040",
+    "regency_id": "3523",
+    "name": "SINGGAHAN",
+    "alt_name": "Singgahan, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.98333,
+    "longitude": 111.77339
+  },
+  {
+    "id": "3523050",
+    "regency_id": "3523",
+    "name": "MONTONG",
+    "alt_name": "Montong, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.96808,
+    "longitude": 111.88071
+  },
+  {
+    "id": "3523060",
+    "regency_id": "3523",
+    "name": "PARENGAN",
+    "alt_name": "Parengan, Tuban Regency, East Java, Indonesia",
+    "latitude": -7.05103,
+    "longitude": 111.83301
+  },
+  {
+    "id": "3523070",
+    "regency_id": "3523",
+    "name": "SOKO",
+    "alt_name": "Soko, Tuban Regency, East Java, Indonesia",
+    "latitude": -7.0962,
+    "longitude": 111.94033
+  },
+  {
+    "id": "3523080",
+    "regency_id": "3523",
+    "name": "RENGEL",
+    "alt_name": "Rengel, Tuban Regency, East Java, Indonesia",
+    "latitude": -7.07367,
+    "longitude": 111.98802
+  },
+  {
+    "id": "3523081",
+    "regency_id": "3523",
+    "name": "GRABAGAN",
+    "alt_name": "Grabagan, Tuban Regency, East Java, Indonesia",
+    "latitude": -7.01321,
+    "longitude": 111.98802
+  },
+  {
+    "id": "3523090",
+    "regency_id": "3523",
+    "name": "PLUMPANG",
+    "alt_name": "Plumpang, Tuban Regency, East Java, Indonesia",
+    "latitude": -7.03697,
+    "longitude": 112.11918
+  },
+  {
+    "id": "3523100",
+    "regency_id": "3523",
+    "name": "WIDANG",
+    "alt_name": "Widang, Tuban Regency, East Java, Indonesia",
+    "latitude": -7.02396,
+    "longitude": 112.17879
+  },
+  {
+    "id": "3523110",
+    "regency_id": "3523",
+    "name": "PALANG",
+    "alt_name": "Palang, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.94468,
+    "longitude": 112.15494
+  },
+  {
+    "id": "3523120",
+    "regency_id": "3523",
+    "name": "SEMANDING",
+    "alt_name": "Semanding, Prunggahan Kulon, Semanding, Kabupaten Tuban, Jawa Timur, Indonesia",
+    "latitude": -6.92171,
+    "longitude": 112.0547
+  },
+  {
+    "id": "3523130",
+    "regency_id": "3523",
+    "name": "TUBAN",
+    "alt_name": "Tuban, Tuban Sub-District, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.89491,
+    "longitude": 112.04168
+  },
+  {
+    "id": "3523140",
+    "regency_id": "3523",
+    "name": "JENU",
+    "alt_name": "Jenu, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.79316,
+    "longitude": 111.96417
+  },
+  {
+    "id": "3523150",
+    "regency_id": "3523",
+    "name": "MERAKURAK",
+    "alt_name": "Merakurak, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.87351,
+    "longitude": 111.96417
+  },
+  {
+    "id": "3523160",
+    "regency_id": "3523",
+    "name": "KEREK",
+    "alt_name": "Kerek, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.88984,
+    "longitude": 111.83301
+  },
+  {
+    "id": "3523170",
+    "regency_id": "3523",
+    "name": "TAMBAKBOYO",
+    "alt_name": "Tambakboyo, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.81889,
+    "longitude": 111.84493
+  },
+  {
+    "id": "3523180",
+    "regency_id": "3523",
+    "name": "JATIROGO",
+    "alt_name": "Jatirogo, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.85862,
+    "longitude": 111.64222
+  },
+  {
+    "id": "3523190",
+    "regency_id": "3523",
+    "name": "BANCAR",
+    "alt_name": "Bancar, Tuban Regency, East Java, Indonesia",
+    "latitude": -6.8139,
+    "longitude": 111.73762
+  },
+  {
+    "id": "3524010",
+    "regency_id": "3524",
+    "name": "SUKORAME",
+    "alt_name": "Sukorame, Kabupaten Lamongan, Jawa Timur, Indonesia",
+    "latitude": -7.34495,
+    "longitude": 112.1102
+  },
+  {
+    "id": "3524020",
+    "regency_id": "3524",
+    "name": "BLULUK",
+    "alt_name": "Bluluk, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.30878,
+    "longitude": 112.1311
+  },
+  {
+    "id": "3524030",
+    "regency_id": "3524",
+    "name": "NGIMBANG",
+    "alt_name": "Ngimbang, Sendangrejo, Ngimbang, Kabupaten Lamongan, Jawa Timur, Indonesia",
+    "latitude": -7.28074,
+    "longitude": 112.2158
+  },
+  {
+    "id": "3524040",
+    "regency_id": "3524",
+    "name": "SAMBENG",
+    "alt_name": "Sambeng, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.31213,
+    "longitude": 112.26225
+  },
+  {
+    "id": "3524050",
+    "regency_id": "3524",
+    "name": "MANTUP",
+    "alt_name": "Mantup, Kabupaten Lamongan, Jawa Timur, Indonesia",
+    "latitude": -7.27292,
+    "longitude": 112.3547
+  },
+  {
+    "id": "3524060",
+    "regency_id": "3524",
+    "name": "KEMBANGBAHU",
+    "alt_name": "Kembangbahu, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.17547,
+    "longitude": 112.36954
+  },
+  {
+    "id": "3524070",
+    "regency_id": "3524",
+    "name": "SUGIO",
+    "alt_name": "Sugio, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.18032,
+    "longitude": 112.27417
+  },
+  {
+    "id": "3524080",
+    "regency_id": "3524",
+    "name": "KEDUNGPRING",
+    "alt_name": "Kedungpring, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.18395,
+    "longitude": 112.20263
+  },
+  {
+    "id": "3524090",
+    "regency_id": "3524",
+    "name": "MODO",
+    "alt_name": "Modo, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.22795,
+    "longitude": 112.1311
+  },
+  {
+    "id": "3524100",
+    "regency_id": "3524",
+    "name": "BABAT",
+    "alt_name": "Babat, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.10331,
+    "longitude": 112.20263
+  },
+  {
+    "id": "3524110",
+    "regency_id": "3524",
+    "name": "PUCUK",
+    "alt_name": "Pucuk, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.09379,
+    "longitude": 112.29205
+  },
+  {
+    "id": "3524120",
+    "regency_id": "3524",
+    "name": "SUKODADI",
+    "alt_name": "Sukodadi, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.13639,
+    "longitude": 112.3457
+  },
+  {
+    "id": "3524130",
+    "regency_id": "3524",
+    "name": "LAMONGAN",
+    "alt_name": "Lamongan, Lamongan Sub-District, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.11811,
+    "longitude": 112.41498
+  },
+  {
+    "id": "3524140",
+    "regency_id": "3524",
+    "name": "TIKUNG",
+    "alt_name": "Tikung, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.18845,
+    "longitude": 112.41127
+  },
+  {
+    "id": "3524141",
+    "regency_id": "3524",
+    "name": "SARIREJO",
+    "alt_name": "Sarirejo, East Semarang, Semarang City, Central Java, Indonesia",
+    "latitude": -6.98122,
+    "longitude": 110.43366
+  },
+  {
+    "id": "3524150",
+    "regency_id": "3524",
+    "name": "DEKET",
+    "alt_name": "Deket, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.11022,
+    "longitude": 112.46491
+  },
+  {
+    "id": "3524160",
+    "regency_id": "3524",
+    "name": "GLAGAH",
+    "alt_name": "Glagah, Temon, Kulon Progo Regency, Special Region of Yogyakarta, Indonesia",
+    "latitude": -7.90606,
+    "longitude": 110.07177
+  },
+  {
+    "id": "3524170",
+    "regency_id": "3524",
+    "name": "KARANGBINANGUN",
+    "alt_name": "Karangbinangun, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.0298,
+    "longitude": 112.46491
+  },
+  {
+    "id": "3524180",
+    "regency_id": "3524",
+    "name": "TURI",
+    "alt_name": "Turi, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.0736,
+    "longitude": 112.39338
+  },
+  {
+    "id": "3524190",
+    "regency_id": "3524",
+    "name": "KALITENGAH",
+    "alt_name": "Kalitengah, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.01802,
+    "longitude": 112.39934
+  },
+  {
+    "id": "3524200",
+    "regency_id": "3524",
+    "name": "KARANG GENENG",
+    "alt_name": "Karang Geneng, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.01567,
+    "longitude": 112.3457
+  },
+  {
+    "id": "3524210",
+    "regency_id": "3524",
+    "name": "SEKARAN",
+    "alt_name": "Sekaran, Gunung Pati, Semarang City, Central Java, Indonesia",
+    "latitude": -7.04261,
+    "longitude": 110.39642
+  },
+  {
+    "id": "3524220",
+    "regency_id": "3524",
+    "name": "MADURAN",
+    "alt_name": "Maduran, Lamongan Regency, East Java, Indonesia",
+    "latitude": -7.00326,
+    "longitude": 112.29205
+  },
+  {
+    "id": "3524230",
+    "regency_id": "3524",
+    "name": "LAREN",
+    "alt_name": "Laren, Lamongan Regency, East Java, Indonesia",
+    "latitude": -6.95893,
+    "longitude": 112.27417
+  },
+  {
+    "id": "3524240",
+    "regency_id": "3524",
+    "name": "SOLOKURO",
+    "alt_name": "Solokuro, Lamongan Regency, East Java, Indonesia",
+    "latitude": -6.93415,
+    "longitude": 112.36954
+  },
+  {
+    "id": "3524250",
+    "regency_id": "3524",
+    "name": "PACIRAN",
+    "alt_name": "Paciran, Lamongan Regency, East Java, Indonesia",
+    "latitude": -6.8893,
+    "longitude": 112.36358
+  },
+  {
+    "id": "3524260",
+    "regency_id": "3524",
+    "name": "BRONDONG",
+    "alt_name": "Brondong, Sedayulawas, Brondong, Kabupaten Lamongan, Jawa Timur, Indonesia",
+    "latitude": -6.88272,
+    "longitude": 112.271
+  },
+  {
+    "id": "3525010",
+    "regency_id": "3525",
+    "name": "WRINGINANOM",
+    "alt_name": "Wringinanom, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.36977,
+    "longitude": 112.51259
+  },
+  {
+    "id": "3525020",
+    "regency_id": "3525",
+    "name": "DRIYOREJO",
+    "alt_name": "Driyorejo, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.34455,
+    "longitude": 112.60795
+  },
+  {
+    "id": "3525030",
+    "regency_id": "3525",
+    "name": "KEDAMEAN",
+    "alt_name": "Kedamean, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.32814,
+    "longitude": 112.53643
+  },
+  {
+    "id": "3525040",
+    "regency_id": "3525",
+    "name": "MENGANTI",
+    "alt_name": "Menganti, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.28531,
+    "longitude": 112.58411
+  },
+  {
+    "id": "3525050",
+    "regency_id": "3525",
+    "name": "CERME",
+    "alt_name": "Cerme, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.2261,
+    "longitude": 112.56027
+  },
+  {
+    "id": "3525060",
+    "regency_id": "3525",
+    "name": "BENJENG",
+    "alt_name": "Benjeng, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.26218,
+    "longitude": 112.50101
+  },
+  {
+    "id": "3525070",
+    "regency_id": "3525",
+    "name": "BALONGPANGGANG",
+    "alt_name": "Balongpanggang, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.27259,
+    "longitude": 112.44107
+  },
+  {
+    "id": "3525080",
+    "regency_id": "3525",
+    "name": "DUDUKSAMPEYAN",
+    "alt_name": "Duduksampeyan, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.1468,
+    "longitude": 112.53643
+  },
+  {
+    "id": "3525090",
+    "regency_id": "3525",
+    "name": "KEBOMAS",
+    "alt_name": "Kebomas, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.17846,
+    "longitude": 112.62339
+  },
+  {
+    "id": "3525100",
+    "regency_id": "3525",
+    "name": "GRESIK",
+    "alt_name": "Gresik, Gresik Sub-District, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.16524,
+    "longitude": 112.65199
+  },
+  {
+    "id": "3525110",
+    "regency_id": "3525",
+    "name": "MANYAR",
+    "alt_name": "Manyar, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.09349,
+    "longitude": 112.59603
+  },
+  {
+    "id": "3525120",
+    "regency_id": "3525",
+    "name": "BUNGAH",
+    "alt_name": "Bungah, Gresik Regency, East Java, Indonesia",
+    "latitude": -7.0238,
+    "longitude": 112.58411
+  },
+  {
+    "id": "3525130",
+    "regency_id": "3525",
+    "name": "SIDAYU",
+    "alt_name": "Sidayu, Gresik Regency, East Java, Indonesia",
+    "latitude": -6.98606,
+    "longitude": 112.53643
+  },
+  {
+    "id": "3525140",
+    "regency_id": "3525",
+    "name": "DUKUN",
+    "alt_name": "Dukun, Magelang, Central Java, Indonesia",
+    "latitude": -7.53923,
+    "longitude": 110.36663
+  },
+  {
+    "id": "3525150",
+    "regency_id": "3525",
+    "name": "PANCENG",
+    "alt_name": "Panceng, Gresik Regency, East Java, Indonesia",
+    "latitude": -6.92943,
+    "longitude": 112.46491
+  },
+  {
+    "id": "3525160",
+    "regency_id": "3525",
+    "name": "UJUNGPANGKAH",
+    "alt_name": "Ujungpangkah, Gresik Regency, East Java, Indonesia",
+    "latitude": -6.93532,
+    "longitude": 112.54835
+  },
+  {
+    "id": "3525170",
+    "regency_id": "3525",
+    "name": "SANGKAPURA",
+    "alt_name": "Sangkapura, Sungai Tlk., Sangkapura, Kabupaten Gresik, Jawa Timur, Indonesia",
+    "latitude": -5.84291,
+    "longitude": 112.6454
+  },
+  {
+    "id": "3525180",
+    "regency_id": "3525",
+    "name": "TAMBAK",
+    "alt_name": "Tambak, Kabupaten Gresik, Jawa Timur, Indonesia",
+    "latitude": -5.74211,
+    "longitude": 112.6453
+  },
+  {
+    "id": "3526010",
+    "regency_id": "3526",
+    "name": "KAMAL",
+    "alt_name": "Kamal, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -7.137,
+    "longitude": 112.72713
+  },
+  {
+    "id": "3526020",
+    "regency_id": "3526",
+    "name": "LABANG",
+    "alt_name": "Labang, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -7.12335,
+    "longitude": 112.79319
+  },
+  {
+    "id": "3526030",
+    "regency_id": "3526",
+    "name": "KWANYAR",
+    "alt_name": "Kwanyar, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -7.14966,
+    "longitude": 112.87013
+  },
+  {
+    "id": "3526040",
+    "regency_id": "3526",
+    "name": "MODUNG",
+    "alt_name": "Modung, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -7.16476,
+    "longitude": 112.96546
+  },
+  {
+    "id": "3526050",
+    "regency_id": "3526",
+    "name": "BLEGA",
+    "alt_name": "Blega, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -7.12089,
+    "longitude": 113.03694
+  },
+  {
+    "id": "3526060",
+    "regency_id": "3526",
+    "name": "KONANG",
+    "alt_name": "Konang, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -7.03952,
+    "longitude": 113.06077
+  },
+  {
+    "id": "3526070",
+    "regency_id": "3526",
+    "name": "GALIS",
+    "alt_name": "Galis, Bulay, Galis, Kabupaten Pamekasan, Jawa Timur, Indonesia",
+    "latitude": -7.14831,
+    "longitude": 113.5504
+  },
+  {
+    "id": "3526080",
+    "regency_id": "3526",
+    "name": "TANAH MERAH",
+    "alt_name": "Tanah Merah, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -7.0694,
+    "longitude": 112.87013
+  },
+  {
+    "id": "3526090",
+    "regency_id": "3526",
+    "name": "TRAGAH",
+    "alt_name": "Tragah, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -7.09192,
+    "longitude": 112.82247
+  },
+  {
+    "id": "3526100",
+    "regency_id": "3526",
+    "name": "SOCAH",
+    "alt_name": "Socah, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -7.07675,
+    "longitude": 112.72713
+  },
+  {
+    "id": "3526110",
+    "regency_id": "3526",
+    "name": "BANGKALAN",
+    "alt_name": "Bangkalan, Bangkalan Sub-District, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -7.02528,
+    "longitude": 112.75198
+  },
+  {
+    "id": "3526120",
+    "regency_id": "3526",
+    "name": "BURNEH",
+    "alt_name": "Burneh, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -7.03297,
+    "longitude": 112.79863
+  },
+  {
+    "id": "3526130",
+    "regency_id": "3526",
+    "name": "AROSBAYA",
+    "alt_name": "Arosbaya, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -6.97043,
+    "longitude": 112.8463
+  },
+  {
+    "id": "3526140",
+    "regency_id": "3526",
+    "name": "GEGER",
+    "alt_name": "Geger, Madiun, East Java, Indonesia",
+    "latitude": -7.7109,
+    "longitude": 111.52894
+  },
+  {
+    "id": "3526150",
+    "regency_id": "3526",
+    "name": "KOKOP",
+    "alt_name": "Kokop, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -6.9795,
+    "longitude": 113.06077
+  },
+  {
+    "id": "3526160",
+    "regency_id": "3526",
+    "name": "TANJUNGBUMI",
+    "alt_name": "Tanjungbumi, Bangkalan Regency, East Java, Indonesia",
+    "latitude": -6.89955,
+    "longitude": 113.06077
+  },
+  {
+    "id": "3526170",
+    "regency_id": "3526",
+    "name": "SEPULU",
+    "alt_name": "Jl. Nasional 10, Kabupaten Banyumas, Jawa Tengah, Indonesia",
+    "latitude": -7.56026,
+    "longitude": 109.28615
+  },
+  {
+    "id": "3526180",
+    "regency_id": "3526",
+    "name": "KLAMPIS",
+    "alt_name": "Klampis, Bantean, Klampis, Kabupaten Bangkalan, Jawa Timur, Indonesia",
+    "latitude": -6.9261,
+    "longitude": 112.8844
+  },
+  {
+    "id": "3527010",
+    "regency_id": "3527",
+    "name": "SRESEH",
+    "alt_name": "Sreseh, Sampang Regency, East Java, Indonesia",
+    "latitude": -7.19862,
+    "longitude": 113.08459
+  },
+  {
+    "id": "3527020",
+    "regency_id": "3527",
+    "name": "TORJUN",
+    "alt_name": "Torjun, Sampang Regency, East Java, Indonesia",
+    "latitude": -7.14688,
+    "longitude": 113.20967
+  },
+  {
+    "id": "3527021",
+    "regency_id": "3527",
+    "name": "PANGARENGAN",
+    "alt_name": "Pangarengan, Sampang Regency, East Java, Indonesia",
+    "latitude": -7.19563,
+    "longitude": 113.16199
+  },
+  {
+    "id": "3527030",
+    "regency_id": "3527",
+    "name": "SAMPANG",
+    "alt_name": "Sampang, Sampang Sub-District, Sampang Regency, East Java, Indonesia",
+    "latitude": -7.1939,
+    "longitude": 113.2467
+  },
+  {
+    "id": "3527040",
+    "regency_id": "3527",
+    "name": "CAMPLONG",
+    "alt_name": "Camplong, Sampang Regency, East Java, Indonesia",
+    "latitude": -7.18466,
+    "longitude": 113.34663
+  },
+  {
+    "id": "3527050",
+    "regency_id": "3527",
+    "name": "OMBEN",
+    "alt_name": "Teluk Ambon, Kota Ambon, Maluku, Indonesia",
+    "latitude": -3.65539,
+    "longitude": 128.19077
+  },
+  {
+    "id": "3527060",
+    "regency_id": "3527",
+    "name": "KEDUNGDUNG",
+    "alt_name": "Kedungdung, Sampang Regency, East Java, Indonesia",
+    "latitude": -7.06961,
+    "longitude": 113.25136
+  },
+  {
+    "id": "3527070",
+    "regency_id": "3527",
+    "name": "JRENGIK",
+    "alt_name": "Jrengik, Sampang Regency, East Java, Indonesia",
+    "latitude": -7.13594,
+    "longitude": 113.13224
+  },
+  {
+    "id": "3527080",
+    "regency_id": "3527",
+    "name": "TAMBELANGAN",
+    "alt_name": "Tambelangan, Banjar, Kedungdung, Kabupaten Sampang, Jawa Timur, Indonesia",
+    "latitude": -7.05835,
+    "longitude": 113.197
+  },
+  {
+    "id": "3527090",
+    "regency_id": "3527",
+    "name": "BANYUATES",
+    "alt_name": "Banyuates, Sampang Regency, East Java, Indonesia",
+    "latitude": -6.94401,
+    "longitude": 113.16798
+  },
+  {
+    "id": "3527100",
+    "regency_id": "3527",
+    "name": "ROBATAL",
+    "alt_name": "Robatal, Sampang Regency, East Java, Indonesia",
+    "latitude": -7.00714,
+    "longitude": 113.29899
+  },
+  {
+    "id": "3527101",
+    "regency_id": "3527",
+    "name": "KARANG PENANG",
+    "alt_name": "Karang Penang, Sampang Regency, East Java, Indonesia",
+    "latitude": -7.02338,
+    "longitude": 113.37045
+  },
+  {
+    "id": "3527110",
+    "regency_id": "3527",
+    "name": "KETAPANG",
+    "alt_name": "Ketapang, Kantor, Delta Pawan, Kabupaten Ketapang, Kalimantan Barat, Indonesia",
+    "latitude": -1.8591,
+    "longitude": 109.9719
+  },
+  {
+    "id": "3527120",
+    "regency_id": "3527",
+    "name": "SOKOBANAH",
+    "alt_name": "Sokobanah, Sampang Regency, East Java, Indonesia",
+    "latitude": -6.94107,
+    "longitude": 113.41808
+  },
+  {
+    "id": "3528010",
+    "regency_id": "3528",
+    "name": "TLANAKAN",
+    "alt_name": "Tlanakan, Pamekasan Regency, East Java, Indonesia",
+    "latitude": -7.19956,
+    "longitude": 113.44189
+  },
+  {
+    "id": "3528020",
+    "regency_id": "3528",
+    "name": "PADEMAWU",
+    "alt_name": "Pademawu, Pamekasan Regency, East Java, Indonesia",
+    "latitude": -7.19571,
+    "longitude": 113.51333
+  },
+  {
+    "id": "3528030",
+    "regency_id": "3528",
+    "name": "GALIS",
+    "alt_name": "Galis, Bulay, Galis, Kabupaten Pamekasan, Jawa Timur, Indonesia",
+    "latitude": -7.14831,
+    "longitude": 113.5504
+  },
+  {
+    "id": "3528040",
+    "regency_id": "3528",
+    "name": "LARANGAN",
+    "alt_name": "Larangan, Tangerang City, Banten, Indonesia",
+    "latitude": -6.2357,
+    "longitude": 106.72936
+  },
+  {
+    "id": "3528050",
+    "regency_id": "3528",
+    "name": "PAMEKASAN",
+    "alt_name": "Pamekasan, Pamekasan Sub-District, Pamekasan Regency, East Java, Indonesia",
+    "latitude": -7.15425,
+    "longitude": 113.47391
+  },
+  {
+    "id": "3528060",
+    "regency_id": "3528",
+    "name": "PROPPO",
+    "alt_name": "Proppo, Pamekasan Regency, East Java, Indonesia",
+    "latitude": -7.1408,
+    "longitude": 113.41808
+  },
+  {
+    "id": "3528070",
+    "regency_id": "3528",
+    "name": "PALENGAAN",
+    "alt_name": "Palengaan, Pamekasan Regency, East Java, Indonesia",
+    "latitude": -7.07955,
+    "longitude": 113.44189
+  },
+  {
+    "id": "3528080",
+    "regency_id": "3528",
+    "name": "PEGANTENAN",
+    "alt_name": "Pegantenan, Pamekasan Regency, East Java, Indonesia",
+    "latitude": -7.03834,
+    "longitude": 113.4657
+  },
+  {
+    "id": "3528090",
+    "regency_id": "3528",
+    "name": "KADUR",
+    "alt_name": "Kadur, Pamekasan Regency, East Java, Indonesia",
+    "latitude": -7.07449,
+    "longitude": 113.53714
+  },
+  {
+    "id": "3528100",
+    "regency_id": "3528",
+    "name": "PAKONG",
+    "alt_name": "Pakong, Pamekasan Regency, East Java, Indonesia",
+    "latitude": -7.0333,
+    "longitude": 113.56095
+  },
+  {
+    "id": "3528110",
+    "regency_id": "3528",
+    "name": "WARU",
+    "alt_name": "Waru, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.35114,
+    "longitude": 112.76884
+  },
+  {
+    "id": "3528120",
+    "regency_id": "3528",
+    "name": "BATU MARMAR",
+    "alt_name": "Batu Marmar, Pamekasan Regency, East Java, Indonesia",
+    "latitude": -6.96663,
+    "longitude": 113.50142
+  },
+  {
+    "id": "3528130",
+    "regency_id": "3528",
+    "name": "PASEAN",
+    "alt_name": "Pasean, Pamekasan Regency, East Java, Indonesia",
+    "latitude": -6.91247,
+    "longitude": 113.58475
+  },
+  {
+    "id": "3529010",
+    "regency_id": "3529",
+    "name": "PRAGAAN",
+    "alt_name": "Pragaan, Sumenep Regency, East Java, Indonesia",
+    "latitude": -7.08809,
+    "longitude": 113.65617
+  },
+  {
+    "id": "3529020",
+    "regency_id": "3529",
+    "name": "BLUTO",
+    "alt_name": "Bluto, Kabupaten Sumenep, Jawa Timur, Indonesia",
+    "latitude": -7.11305,
+    "longitude": 113.8026
+  },
+  {
+    "id": "3529030",
+    "regency_id": "3529",
+    "name": "SARONGGI",
+    "alt_name": "Saronggi, Sumenep Regency, East Java, Indonesia",
+    "latitude": -7.09777,
+    "longitude": 113.84658
+  },
+  {
+    "id": "3529040",
+    "regency_id": "3529",
+    "name": "GILIGENTENG",
+    "alt_name": "Giligenteng, Sumenep Regency, East Java, Indonesia",
+    "latitude": -7.19958,
+    "longitude": 113.90011
+  },
+  {
+    "id": "3529050",
+    "regency_id": "3529",
+    "name": "TALANGO",
+    "alt_name": "Talango, Sumenep Regency, East Java, Indonesia",
+    "latitude": -7.08871,
+    "longitude": 114.01312
+  },
+  {
+    "id": "3529060",
+    "regency_id": "3529",
+    "name": "KALIANGET",
+    "alt_name": "Kalianget, Sumenep Regency, East Java, Indonesia",
+    "latitude": -7.05069,
+    "longitude": 113.88822
+  },
+  {
+    "id": "3529070",
+    "regency_id": "3529",
+    "name": "KOTA SUMENEP",
+    "alt_name": "Sumenep, Bangselok, Kotasumenep, Kabupaten Sumenep, Jawa Timur, Indonesia",
+    "latitude": -7.00956,
+    "longitude": 113.8583
+  },
+  {
+    "id": "3529071",
+    "regency_id": "3529",
+    "name": "BATUAN",
+    "alt_name": "Batuan, Sukawati, Gianyar, Bali, Indonesia",
+    "latitude": -8.58271,
+    "longitude": 115.27487
+  },
+  {
+    "id": "3529080",
+    "regency_id": "3529",
+    "name": "LENTENG",
+    "alt_name": "Lenteng, Golo Mori, Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia",
+    "latitude": -8.65892,
+    "longitude": 119.8167
+  },
+  {
+    "id": "3529090",
+    "regency_id": "3529",
+    "name": "GANDING",
+    "alt_name": "Ganding, Sumenep Regency, East Java, Indonesia",
+    "latitude": -7.06559,
+    "longitude": 113.70378
+  },
+  {
+    "id": "3529100",
+    "regency_id": "3529",
+    "name": "GULUK GULUK",
+    "alt_name": "Guluk Guluk, Sumenep Regency, East Java, Indonesia",
+    "latitude": -7.04946,
+    "longitude": 113.63237
+  },
+  {
+    "id": "3529110",
+    "regency_id": "3529",
+    "name": "PASONGSONGAN",
+    "alt_name": "Pasongsongan, Sumenep Regency, East Java, Indonesia",
+    "latitude": -6.94855,
+    "longitude": 113.65617
+  },
+  {
+    "id": "3529120",
+    "regency_id": "3529",
+    "name": "AMBUNTEN",
+    "alt_name": "Ambunten, Sumenep Regency, East Java, Indonesia",
+    "latitude": -6.89346,
+    "longitude": 113.74321
+  },
+  {
+    "id": "3529130",
+    "regency_id": "3529",
+    "name": "RUBARU",
+    "alt_name": "Rubaru, Sumenep Regency, East Java, Indonesia",
+    "latitude": -6.96343,
+    "longitude": 113.75138
+  },
+  {
+    "id": "3529140",
+    "regency_id": "3529",
+    "name": "DASUK",
+    "alt_name": "Dasuk, Sumenep Regency, East Java, Indonesia",
+    "latitude": -6.91987,
+    "longitude": 113.82278
+  },
+  {
+    "id": "3529150",
+    "regency_id": "3529",
+    "name": "MANDING",
+    "alt_name": "Manding, Kota Lama, Kunto Darussalam, Kabupaten Rokan Hulu, Riau, Indonesia",
+    "latitude": 0.93669,
+    "longitude": 100.6636
+  },
+  {
+    "id": "3529160",
+    "regency_id": "3529",
+    "name": "BATUPUTIH",
+    "alt_name": "Batuputih, Sumenep Regency, East Java, Indonesia",
+    "latitude": -6.91357,
+    "longitude": 113.94175
+  },
+  {
+    "id": "3529170",
+    "regency_id": "3529",
+    "name": "GAPURA",
+    "alt_name": "Gapura, Sumenep Regency, East Java, Indonesia",
+    "latitude": -6.9918,
+    "longitude": 113.96554
+  },
+  {
+    "id": "3529180",
+    "regency_id": "3529",
+    "name": "BATANG BATANG",
+    "alt_name": "Batang, Batang Sub-District, Batang Regency, Central Java, Indonesia",
+    "latitude": -6.90804,
+    "longitude": 109.73268
+  },
+  {
+    "id": "3529190",
+    "regency_id": "3529",
+    "name": "DUNGKEK",
+    "alt_name": "Dungkek, Sumenep Regency, East Java, Indonesia",
+    "latitude": -6.96553,
+    "longitude": 114.08448
+  },
+  {
+    "id": "3529200",
+    "regency_id": "3529",
+    "name": "NONGGUNONG",
+    "alt_name": "Nonggunong, Sumenep Regency, East Java, Indonesia",
+    "latitude": -7.07175,
+    "longitude": 114.32226
+  },
+  {
+    "id": "3529210",
+    "regency_id": "3529",
+    "name": "GAYAM",
+    "alt_name": "Gayam, Sukoharjo Sub-District, Sukoharjo Regency, Central Java, Indonesia",
+    "latitude": -7.68691,
+    "longitude": 110.85231
+  },
+  {
+    "id": "3529220",
+    "regency_id": "3529",
+    "name": "RAAS",
+    "alt_name": "Raas, Sumenep Regency, East Java, Indonesia",
+    "latitude": -7.15114,
+    "longitude": 114.5896
+  },
+  {
+    "id": "3529230",
+    "regency_id": "3529",
+    "name": "SAPEKEN",
+    "alt_name": "Sapeken, Sumenep Regency, East Java, Indonesia",
+    "latitude": -7.16518,
+    "longitude": 115.79302
+  },
+  {
+    "id": "3529240",
+    "regency_id": "3529",
+    "name": "ARJASA",
+    "alt_name": "Arjasa, Jember Regency, East Java, Indonesia",
+    "latitude": -8.1044,
+    "longitude": 113.73353
+  },
+  {
+    "id": "3529241",
+    "regency_id": "3529",
+    "name": "KANGAYAN",
+    "alt_name": "Kangayan, Sumenep Regency, East Java, Indonesia",
+    "latitude": -6.88944,
+    "longitude": 115.46151
+  },
+  {
+    "id": "3529250",
+    "regency_id": "3529",
+    "name": "MASALEMBU",
+    "alt_name": "Masalembu, Sumenep Regency, East Java, Indonesia",
+    "latitude": -5.55771,
+    "longitude": 114.41733
+  },
+  {
+    "id": "3571010",
+    "regency_id": "3571",
+    "name": "MOJOROTO",
+    "alt_name": "Mojoroto, Kediri, East Java, Indonesia",
+    "latitude": -7.80374,
+    "longitude": 111.98802
+  },
+  {
+    "id": "3571020",
+    "regency_id": "3571",
+    "name": "KOTA KEDIRI",
+    "alt_name": "Kediri, East Java, Indonesia",
+    "latitude": -7.84802,
+    "longitude": 112.01783
+  },
+  {
+    "id": "3571030",
+    "regency_id": "3571",
+    "name": "PESANTREN",
+    "alt_name": "Pesantren, Kediri, East Java, Indonesia",
+    "latitude": -7.84606,
+    "longitude": 112.0536
+  },
+  {
+    "id": "3572010",
+    "regency_id": "3572",
+    "name": "SUKOREJO",
+    "alt_name": "Sukorejo, Kendal Regency, Central Java, Indonesia",
+    "latitude": -7.14775,
+    "longitude": 109.98541
+  },
+  {
+    "id": "3572020",
+    "regency_id": "3572",
+    "name": "KEPANJENKIDUL",
+    "alt_name": "Kepanjenkidul, Blitar City, East Java, Indonesia",
+    "latitude": -8.07672,
+    "longitude": 112.17581
+  },
+  {
+    "id": "3572030",
+    "regency_id": "3572",
+    "name": "SANANWETAN",
+    "alt_name": "Sananwetan, Blitar City, East Java, Indonesia",
+    "latitude": -8.09411,
+    "longitude": 112.18475
+  },
+  {
+    "id": "3573010",
+    "regency_id": "3573",
+    "name": "KEDUNGKANDANG",
+    "alt_name": "Kedungkandang, Malang City, East Java, Indonesia",
+    "latitude": -8.01101,
+    "longitude": 112.65562
+  },
+  {
+    "id": "3573020",
+    "regency_id": "3573",
+    "name": "SUKUN",
+    "alt_name": "Sukun, Malang City, East Java, Indonesia",
+    "latitude": -7.99813,
+    "longitude": 112.61391
+  },
+  {
+    "id": "3573030",
+    "regency_id": "3573",
+    "name": "KLOJEN",
+    "alt_name": "Klojen, Malang City, East Java, Indonesia",
+    "latitude": -7.97707,
+    "longitude": 112.62582
+  },
+  {
+    "id": "3573040",
+    "regency_id": "3573",
+    "name": "BLIMBING",
+    "alt_name": "Blimbing, Malang City, East Java, Indonesia",
+    "latitude": -7.95534,
+    "longitude": 112.64966
+  },
+  {
+    "id": "3573050",
+    "regency_id": "3573",
+    "name": "LOWOKWARU",
+    "alt_name": "Lowokwaru, Malang City, East Java, Indonesia",
+    "latitude": -7.93703,
+    "longitude": 112.61391
+  },
+  {
+    "id": "3574010",
+    "regency_id": "3574",
+    "name": "KADEMANGAN",
+    "alt_name": "Kademangan, Blitar, East Java, Indonesia",
+    "latitude": -8.19956,
+    "longitude": 112.10602
+  },
+  {
+    "id": "3574011",
+    "regency_id": "3574",
+    "name": "KEDOPOK",
+    "alt_name": "Kedopok, Probolinggo City, East Java, Indonesia",
+    "latitude": -7.79194,
+    "longitude": 113.19776
+  },
+  {
+    "id": "3574020",
+    "regency_id": "3574",
+    "name": "WONOASIH",
+    "alt_name": "Wonoasih, Probolinggo City, East Java, Indonesia",
+    "latitude": -7.79799,
+    "longitude": 113.22456
+  },
+  {
+    "id": "3574030",
+    "regency_id": "3574",
+    "name": "MAYANGAN",
+    "alt_name": "Mayangan, Probolinggo City, East Java, Indonesia",
+    "latitude": -7.74741,
+    "longitude": 113.22456
+  },
+  {
+    "id": "3574031",
+    "regency_id": "3574",
+    "name": "KANIGARAN",
+    "alt_name": "Kanigaran, Probolinggo City, East Java, Indonesia",
+    "latitude": -7.76091,
+    "longitude": 113.20967
+  },
+  {
+    "id": "3575010",
+    "regency_id": "3575",
+    "name": "GADINGREJO",
+    "alt_name": "Gadingrejo, Pasuruan City, East Java, Indonesia",
+    "latitude": -7.63747,
+    "longitude": 112.88801
+  },
+  {
+    "id": "3575020",
+    "regency_id": "3575",
+    "name": "PURWOREJO",
+    "alt_name": "Purworejo, Purworejo Sub-District, Purworejo Regency, Central Java, Indonesia",
+    "latitude": -7.71358,
+    "longitude": 110.00783
+  },
+  {
+    "id": "3575030",
+    "regency_id": "3575",
+    "name": "BUGULKIDUL",
+    "alt_name": "Bugulkidul, Pasuruan City, East Java, Indonesia",
+    "latitude": -7.65571,
+    "longitude": 112.92375
+  },
+  {
+    "id": "3575031",
+    "regency_id": "3575",
+    "name": "PANGGUNGREJO",
+    "alt_name": "Panggungrejo, Blitar, East Java, Indonesia",
+    "latitude": -8.24836,
+    "longitude": 112.26225
+  },
+  {
+    "id": "3576010",
+    "regency_id": "3576",
+    "name": "PRAJURIT KULON",
+    "alt_name": "Prajurit Kulon, Mojokerto City, East Java, Indonesia",
+    "latitude": -7.47321,
+    "longitude": 112.42021
+  },
+  {
+    "id": "3576020",
+    "regency_id": "3576",
+    "name": "MAGERSARI",
+    "alt_name": "Magersari, Mojokerto City, East Java, Indonesia",
+    "latitude": -7.46657,
+    "longitude": 112.45001
+  },
+  {
+    "id": "3577010",
+    "regency_id": "3577",
+    "name": "MANGU HARJO",
+    "alt_name": "Mangu Harjo, Madiun City, East Java, Indonesia",
+    "latitude": -7.61729,
+    "longitude": 111.51404
+  },
+  {
+    "id": "3577020",
+    "regency_id": "3577",
+    "name": "TAMAN",
+    "alt_name": "Taman, Sidoarjo Regency, East Java, Indonesia",
+    "latitude": -7.3663,
+    "longitude": 112.6735
+  },
+  {
+    "id": "3577030",
+    "regency_id": "3577",
+    "name": "KARTOHARJO",
+    "alt_name": "Kartoharjo, Madiun City, East Java, Indonesia",
+    "latitude": -7.61845,
+    "longitude": 111.54087
+  },
+  {
+    "id": "3578010",
+    "regency_id": "3578",
+    "name": "KARANG PILANG",
+    "alt_name": "Karang Pilang, Surabaya City, East Java, Indonesia",
+    "latitude": -7.33778,
+    "longitude": 112.6884
+  },
+  {
+    "id": "3578020",
+    "regency_id": "3578",
+    "name": "JAMBANGAN",
+    "alt_name": "Jambangan, Surabaya City, East Java, Indonesia",
+    "latitude": -7.32108,
+    "longitude": 112.71819
+  },
+  {
+    "id": "3578030",
+    "regency_id": "3578",
+    "name": "GAYUNGAN",
+    "alt_name": "Gayungan, Surabaya City, East Java, Indonesia",
+    "latitude": -7.33084,
+    "longitude": 112.72415
+  },
+  {
+    "id": "3578040",
+    "regency_id": "3578",
+    "name": "WONOCOLO",
+    "alt_name": "Wonocolo, Surabaya City, East Java, Indonesia",
+    "latitude": -7.31982,
+    "longitude": 112.74203
+  },
+  {
+    "id": "3578050",
+    "regency_id": "3578",
+    "name": "TENGGILIS MEJOYO",
+    "alt_name": "Tenggilis Mejoyo, Surabaya City, East Java, Indonesia",
+    "latitude": -7.32423,
+    "longitude": 112.75394
+  },
+  {
+    "id": "3578060",
+    "regency_id": "3578",
+    "name": "GUNUNG ANYAR",
+    "alt_name": "Gunung Anyar, Surabaya City, East Java, Indonesia",
+    "latitude": -7.33916,
+    "longitude": 112.80459
+  },
+  {
+    "id": "3578070",
+    "regency_id": "3578",
+    "name": "RUNGKUT",
+    "alt_name": "Rungkut, Surabaya City, East Java, Indonesia",
+    "latitude": -7.31902,
+    "longitude": 112.80459
+  },
+  {
+    "id": "3578080",
+    "regency_id": "3578",
+    "name": "SUKOLILO",
+    "alt_name": "Sukolilo, Surabaya City, East Java, Indonesia",
+    "latitude": -7.28818,
+    "longitude": 112.81651
+  },
+  {
+    "id": "3578090",
+    "regency_id": "3578",
+    "name": "MULYOREJO",
+    "alt_name": "Mulyorejo, Surabaya City, East Java, Indonesia",
+    "latitude": -7.26931,
+    "longitude": 112.79268
+  },
+  {
+    "id": "3578100",
+    "regency_id": "3578",
+    "name": "GUBENG",
+    "alt_name": "Gubeng, Surabaya City, East Java, Indonesia",
+    "latitude": -7.27891,
+    "longitude": 112.75394
+  },
+  {
+    "id": "3578110",
+    "regency_id": "3578",
+    "name": "WONOKROMO",
+    "alt_name": "Wonokromo, Surabaya City, East Java, Indonesia",
+    "latitude": -7.30266,
+    "longitude": 112.73309
+  },
+  {
+    "id": "3578120",
+    "regency_id": "3578",
+    "name": "DUKUH PAKIS",
+    "alt_name": "Dukuh Pakis, Surabaya City, East Java, Indonesia",
+    "latitude": -7.29684,
+    "longitude": 112.70032
+  },
+  {
+    "id": "3578130",
+    "regency_id": "3578",
+    "name": "WIYUNG",
+    "alt_name": "Wiyung, Surabaya City, East Java, Indonesia",
+    "latitude": -7.31526,
+    "longitude": 112.68542
+  },
+  {
+    "id": "3578140",
+    "regency_id": "3578",
+    "name": "LAKARSANTRI",
+    "alt_name": "Lakarsantri, Surabaya City, East Java, Indonesia",
+    "latitude": -7.31651,
+    "longitude": 112.66158
+  },
+  {
+    "id": "3578141",
+    "regency_id": "3578",
+    "name": "SAMBIKEREP",
+    "alt_name": "Sambikerep, Surabaya City, East Java, Indonesia",
+    "latitude": -7.27684,
+    "longitude": 112.64966
+  },
+  {
+    "id": "3578150",
+    "regency_id": "3578",
+    "name": "TANDES",
+    "alt_name": "Tandes, Surabaya City, East Java, Indonesia",
+    "latitude": -7.25544,
+    "longitude": 112.6735
+  },
+  {
+    "id": "3578160",
+    "regency_id": "3578",
+    "name": "SUKO MANUNGGAL",
+    "alt_name": "Suko Manunggal, Surabaya City, East Java, Indonesia",
+    "latitude": -7.26426,
+    "longitude": 112.69734
+  },
+  {
+    "id": "3578170",
+    "regency_id": "3578",
+    "name": "SAWAHAN",
+    "alt_name": "Sawahan, Surabaya City, East Java, Indonesia",
+    "latitude": -7.26301,
+    "longitude": 112.72117
+  },
+  {
+    "id": "3578180",
+    "regency_id": "3578",
+    "name": "TEGALSARI",
+    "alt_name": "Tegalsari, Tegalrejo, Tegalsari, Banyuwangi Regency, East Java, Indonesia",
+    "latitude": -8.40185,
+    "longitude": 114.1181
+  },
+  {
+    "id": "3578190",
+    "regency_id": "3578",
+    "name": "GENTENG",
+    "alt_name": "Genteng, Genteng Kulon, Genteng, Kabupaten Banyuwangi, Jawa Timur, Indonesia",
+    "latitude": -8.36658,
+    "longitude": 114.1463
+  },
+  {
+    "id": "3578200",
+    "regency_id": "3578",
+    "name": "TAMBAKSARI",
+    "alt_name": "Tambaksari, Surabaya City, East Java, Indonesia",
+    "latitude": -7.25044,
+    "longitude": 112.76884
+  },
+  {
+    "id": "3578210",
+    "regency_id": "3578",
+    "name": "KENJERAN",
+    "alt_name": "Kenjeran, Surabaya City, East Java, Indonesia",
+    "latitude": -7.22027,
+    "longitude": 112.76884
+  },
+  {
+    "id": "3578211",
+    "regency_id": "3578",
+    "name": "BULAK",
+    "alt_name": "Bulak, Surabaya City, East Java, Indonesia",
+    "latitude": -7.23677,
+    "longitude": 112.7897
+  },
+  {
+    "id": "3578220",
+    "regency_id": "3578",
+    "name": "SIMOKERTO",
+    "alt_name": "Simokerto, Surabaya City, East Java, Indonesia",
+    "latitude": -7.23865,
+    "longitude": 112.75394
+  },
+  {
+    "id": "3578230",
+    "regency_id": "3578",
+    "name": "SEMAMPIR",
+    "alt_name": "Semampir, Surabaya City, East Java, Indonesia",
+    "latitude": -7.21146,
+    "longitude": 112.74501
+  },
+  {
+    "id": "3578240",
+    "regency_id": "3578",
+    "name": "PABEAN CANTIAN",
+    "alt_name": "Pabean Cantian, Surabaya City, East Java, Indonesia",
+    "latitude": -7.21475,
+    "longitude": 112.73011
+  },
+  {
+    "id": "3578250",
+    "regency_id": "3578",
+    "name": "BUBUTAN",
+    "alt_name": "Bubutan, Surabaya City, East Java, Indonesia",
+    "latitude": -7.24996,
+    "longitude": 112.73011
+  },
+  {
+    "id": "3578260",
+    "regency_id": "3578",
+    "name": "KREMBANGAN",
+    "alt_name": "Krembangan, Surabaya City, East Java, Indonesia",
+    "latitude": -7.23015,
+    "longitude": 112.72415
+  },
+  {
+    "id": "3578270",
+    "regency_id": "3578",
+    "name": "ASEMROWO",
+    "alt_name": "Asemrowo, Surabaya City, East Java, Indonesia",
+    "latitude": -7.23469,
+    "longitude": 112.68542
+  },
+  {
+    "id": "3578280",
+    "regency_id": "3578",
+    "name": "BENOWO",
+    "alt_name": "Benowo, Surabaya City, East Java, Indonesia",
+    "latitude": -7.22649,
+    "longitude": 112.64966
+  },
+  {
+    "id": "3578281",
+    "regency_id": "3578",
+    "name": "PAKAL",
+    "alt_name": "Pakal, Surabaya City, East Java, Indonesia",
+    "latitude": -7.22835,
+    "longitude": 112.61391
+  },
+  {
+    "id": "3579010",
+    "regency_id": "3579",
+    "name": "BATU",
+    "alt_name": "Batu, Batu Sub-District, Batu City, East Java, Indonesia",
+    "latitude": -7.88306,
+    "longitude": 112.53345
+  },
+  {
+    "id": "3579020",
+    "regency_id": "3579",
+    "name": "JUNREJO",
+    "alt_name": "Junrejo, Batu City, East Java, Indonesia",
+    "latitude": -7.91055,
+    "longitude": 112.54239
+  },
+  {
+    "id": "3579030",
+    "regency_id": "3579",
+    "name": "BUMIAJI",
+    "alt_name": "Bumiaji, Batu City, East Java, Indonesia",
+    "latitude": -7.79392,
+    "longitude": 112.53643
+  }
+]
