@@ -53,8 +53,13 @@
     h2 {
         @apply !text-[21px] font-black;
     }
-    h3 {
+    h3,
+    dt {
         @apply text-[18px] font-medium;
+    }
+
+    dd {
+        @apply mb-3;
     }
     p {
         @apply leading-normal tracking-[0.005em];

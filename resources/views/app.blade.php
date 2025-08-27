@@ -51,6 +51,7 @@
 
 
     @if (isset($productSchema) && $productSchema)
+        <!-- Product Schema -->
         <script type="application/ld+json">
         {!! preg_replace('/\\\/', '', json_encode($productSchema)) !!}
     </script>
@@ -99,7 +100,7 @@
         ];
     @endphp
 
-    <!-- Output JSON-LD as raw JSON -->
+    <!-- Organization Schema -->
     <script type="application/ld+json">
         {!! preg_replace('/\\\/', '', json_encode($organizationSchema)) !!}
     </script>
@@ -116,6 +117,7 @@
         ];
     @endphp
 
+    <!-- Site Schema -->
     <script type="application/ld+json">
         {!! json_encode($siteSchema, JSON_UNESCAPED_SLASHES) !!}
     </script>

@@ -3,10 +3,10 @@
         style="background: url({{ asset('img/bg-baner.png') }}) ">
     </div>
     <div class="text-center z-[3] px-2">
-        <h1 class="!text-white mb-2">{{ config('app.name') }}</h1>
-        <p class="text-slate-200 mb-7 max-w-[450px] mx-auto">{{ config('app.name') }} menawarkan
-            <span class="bg-white px-2 rounded-full text-sm text-slate-700">{{ tagline() }}</span> dan
-            <span class="bg-white px-2 rounded-full text-sm text-slate-700">se-Pulau Jawa</span> dengan sistem door
+        <h1 class="!text-white mb-2">{{ config('app.name') }} Travel</h1>
+        <p class="text-slate-200 mb-7 max-w-[450px] mx-auto">{{ config('app.name') }} fokus pada
+            <span class="bg-white px-2 rounded-full text-sm text-slate-700">{{ tagline() }} Surabaya</span> dan
+            <span class="bg-white px-2 rounded-full text-sm text-slate-700">se-Pulau Jawa Bali</span> dengan sistem door
             to door! Ayo pesan travel anda sekarang juga!
         </p>
     </div>

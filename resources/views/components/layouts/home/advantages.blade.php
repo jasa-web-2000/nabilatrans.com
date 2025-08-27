@@ -36,8 +36,8 @@
                         Harga Murah
                     </dt>
                     <dd>
-                        Kami menawarkan <a class="underline" href="{{ developer()['url'] }}"
-                            title="{{ developer()['name'] }}" target="_blank">jasa
+                        Kami menawarkan <a class="underline" href="https://jasatravel.web.id" title="Jasa Travel"
+                            target="_blank">jasa
                             travel</a> atau carter dengan harga murah dan terjangkau, bahkan anda bisa negosiasi.
                     </dd>
                 </div>

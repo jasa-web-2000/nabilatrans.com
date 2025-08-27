@@ -212,7 +212,7 @@ class LandingPageController extends Controller
 
         return view('pages.travel', [
             'page' => $page,
-            'title' => Str::title("Info $page Hari Ini " . date('Y')),
+            'title' => Str::title("Info $page Hari Ini Tahun " . date('Y')),
             'desc' => $description,
             'travel' => [$asalRes, $tujuanRes],
             'recommendation' => $recommendation,

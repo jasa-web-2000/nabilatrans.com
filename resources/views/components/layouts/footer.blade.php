@@ -26,8 +26,9 @@
             <div class="grid grid-cols-8 gap-x-5 gap-y-7">
                 <div class="col-span-12 md:col-span-4">
                     <x-logo :light="true" />
-                    <p class="max-w-[550px] md:max-w-80 mt-3">Jadwalkan travel anda segera! Kami siap melayani anda ke
-                        Seluruh Pulau Sumatera, Jawa, dan Bali.</p>
+                    <p class="max-w-[550px] md:max-w-80 mt-3">Jadwalkan travel anda segera bersama
+                        {{ env('APP_NAME') }}! Kami siap melayani anda ke Tuban dan
+                        Seluruh Pulau Jawa Bali.</p>
                 </div>
                 <div class="col-span-8 sm:col-span-4 md:col-span-2">
                     <h3 class="text-white font-bold tracking-wider">Laman</h3>
