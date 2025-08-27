@@ -47,7 +47,7 @@
 
             <div class="text-center py-5 mt-10 text-sm border-t border-yellow-400">
                 Dikembangkan oleh <a class="underline" target="_blank" rel="nofollow noindex"
-                    href="{{ developer()['url'] }}">{{ developer()['name'] }}</a><br>2018 -
+                    href="{{ developer()['url'] }}">{{ developer()['name'] }}</a><br>2025 -
                 {{ \Carbon\Carbon::now()->locale('id')->isoFormat('YYYY') }}
             </div>
         </div>

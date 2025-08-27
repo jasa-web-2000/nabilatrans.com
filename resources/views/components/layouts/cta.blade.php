@@ -4,11 +4,11 @@
             <div class="p-8 text-center sm:p-16 md:px-24 md:py-20 lg:px-28">
                 <div class="max-w-2xl mx-auto">
                     <h2 class="text-white !text-4xl">
-                        Apakah anda ingin perjalanan travel yang aman dan cepat?
+                        Apakah anda ingin perjalanan {{ tagline() }} Surabaya yang aman dan cepat?
                     </h2>
                     <p class="max-w-lg text-base text-indigo-100 mx-auto mt-4 sm:text-lg">
-                        Hubungi kami dan konsultasikan kebutuhan anda, kami siap
-                        membantu anda 24 jam.
+                        Hubungi kami sekarang dan konsultasikan kebutuhan travel Anda! Tim kami siap melayani 24 jam
+                        nonstop, memberikan solusi travel yang aman, nyaman, dan terpercaya.
                     </p>
                 </div>
                 <div class="flex justify-center gap-4 mt-8 sm:flex-row sm:items-center sm:gap-5">

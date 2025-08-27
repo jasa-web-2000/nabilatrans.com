@@ -18,22 +18,28 @@ class LandingPageController extends Controller
     public function __construct()
     {
 
-        $this->province = ProvinceController::all()
-            ->whereIn("id", ['31', '51'])
-            ->values();
+        $provinceOrder = [
+            '31', // DKI Jakarta
+            '51', // Bali
+        ];
 
         $cityOrder = [
-            "3580",
-            "3578",
-            "3528",
-            "3529",
-            "3526",
-            "3527",
-            "3576",
-            "3573",
-            "3514",
-            "3571"
+            "3578", // Surabaya
+            "3573", // Kota Malang
         ];
+
+        $districtOrder = [
+            "3523130", // Tuban
+            "3524130", // Lamongan
+            "3510180", // Banyuwangi
+        ];
+
+        $this->province = ProvinceController::all()
+            ->whereIn("id", $provinceOrder)
+            ->sortBy(function ($item) use ($provinceOrder) {
+                return array_search($item['id'], $provinceOrder);
+            })
+            ->values();
 
         $this->city = CityController::all()
             ->whereIn("id", $cityOrder)
@@ -43,45 +49,48 @@ class LandingPageController extends Controller
             ->values();
 
         $this->district = DistrictController::all()
-            ->whereIn("id", ["3515110", "3515131"])
+            ->whereIn("id", $districtOrder)
+            ->sortBy(function ($item) use ($districtOrder) {
+                return array_search($item['id'], $districtOrder);
+            })
             ->values();
 
         $this->featured = [
-            $this->city[0],       // 3580 -> origin
-            $this->city[1],       // 3578 -> destination
+            $this->district[0],       // 3580 -> Tuban
+            $this->city[0],           // 3578 -> Surabaya
 
-            $this->city[2],       // 3528 -> origin
-            $this->city[1],       // 3578 -> destination
+            $this->district[0],       // 3580 -> Tuban
+            $this->province[1],       // 51 -> Bali
 
-            $this->city[3],       // 3529 -> origin
-            $this->city[1],       // 3578 -> destination
+            $this->district[0],       // 3580 -> Tuban
+            $this->province[0],       // 31 -> DKI JAKARTA
 
-            $this->city[4],       // 3526 -> origin
-            $this->city[1],       // 3578 -> destination
+            $this->district[0],       // 3580 -> Tuban
+            $this->district[1],       // 3524130 -> Lamongan
 
-            $this->city[5],       // 3527 -> origin
-            $this->city[1],       // 3578 -> destination
+            $this->district[0],       // 3580 -> Tuban
+            $this->district[1],       // 3524130 -> Lamongan
 
-            $this->city[1],       // 3578 -> destination
-            $this->city[0],       // 3580 -> origin
+            $this->district[0],       // 3580 -> Tuban
+            $this->city[1],           // 3573 -> Kota Malang
 
-            $this->city[6],       // 3576 -> origin
-            $this->city[0],       // 3580 -> destination
+            $this->city[0],           // 3578 -> Surabaya
+            $this->province[0],       // 31 -> DKI JAKARTA
 
-            $this->city[0],       // 3580 -> origin
-            $this->district[0],   // 3515110 -> destination
+            $this->city[0],           // 3578 -> Surabaya
+            $this->province[1],       // 51 -> Bali
 
-            $this->city[7],       // 3573 -> origin
-            $this->city[0],       // 3580 -> destination
+            $this->province[0],       // 31 -> DKI JAKARTA
+            $this->province[1],       // 51 -> Bali
 
-            $this->city[0],       // 3580 -> origin
-            $this->district[1],   // 3515131 -> destination
+            $this->city[1],           // 3573 -> Kota Malang
+            $this->province[1],       // 51 -> Bali
 
-            $this->city[8],       // 3514 -> origin
-            $this->city[0],       // 3580 -> destination
+            $this->district[2],       // 3510180 -> Banyuwangi
+            $this->province[1],       // 51 -> Bali
 
-            $this->city[0],       // 3580 -> origin
-            $this->city[9],       // 3571 -> destination
+            $this->city[0],           // 3578 -> Surabaya
+            $this->district[2],       // 3510180 -> Banyuwangi
         ];
 
 
@@ -93,8 +102,8 @@ class LandingPageController extends Controller
     {
 
         return view('pages.home', [
-            'title' => tagline(),
-            'desc' => tagline() . ' dan seluruh Jawa Timur dengan harga murah dan terjangkau',
+            'title' => tagline() . " Surabaya dan Seluruh Pulau Jawa",
+            'desc' => tagline() . ' Surabaya dan seluruh daerah di Jawa selama 24 jam dan bonus makan',
             'featured' => array_chunk($this->featured, 2),
             // 'agent' => $this->province->merge($this->city),
         ]);
@@ -112,7 +121,7 @@ class LandingPageController extends Controller
     {
         return view('pages.galeri', [
             'title' => Str::title('Galeri Mobil Travel'),
-            'desc' => Str::title('Pesan travel mudah dan cepat! Layanan antar jemput, carter drop/pp, dan jadwal fleksibel. Hubungi kami sekarang juga.'),
+            'desc' => Str::title('Lihat koleksi armada kami yang bersih, nyaman, dan terawat. Siap menemani perjalanan Anda dengan pelayanan terbaik.'),
         ]);
     }
 
@@ -197,13 +206,13 @@ class LandingPageController extends Controller
         $recommendation = $province->merge($city)->merge($district)->shuffle()->take(9);
         $recommendation->splice(5, 0, [$asalRes]);
 
-        $description = Str::title("$page terbaik dengan berbagai fasilitas menarik mulai dari bonus makan, door to door, via tol, dan jalan 24 jam");
+        $description = Str::title("$page spesial untuk anda dengan promo menarik, harga murah, dijamin aman dan nyaman.");
 
         $thumbnail = route('thumbnail-jalur-rute-travel', ['asal' => Str::slug($asalRes['name']), 'tujuan' => Str::slug($tujuanRes['name']), 'asalId' => $asalRes['id'], 'tujuanId' => $tujuanRes['id']]);
 
         return view('pages.travel', [
             'page' => $page,
-            'title' => Str::title("$page Terpercaya " . date('Y')),
+            'title' => Str::title("Info $page Hari Ini " . date('Y')),
             'desc' => $description,
             'travel' => [$asalRes, $tujuanRes],
             'recommendation' => $recommendation,
@@ -259,7 +268,7 @@ class LandingPageController extends Controller
     {
         return view('pages.arsip-travel', [
             'title' => "Arsip Travel Termurah " . date('Y'),
-            'desc' => config('app.name') . " Menawarkan Travel Termurah dan Terbaik No. 1 di Pulau Jawa dan Bali",
+            'desc' => config('app.name') . " Menawarkan " . tagline() . " dan seluruh daerah di Pulau Jawa",
             'featured' => array_chunk($this->featured, 2),
         ]);
     }

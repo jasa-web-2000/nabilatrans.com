@@ -10,15 +10,14 @@
                     class="mx-auto max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl custom-container flex flex-col items-center justify-center text-center mb-10 mt-16">
                     <div class="grid gap-10 md:grid-cols-2 xl:grid-cols-3">
                         <x-testimoni
-                            text="Perjalanan Travel saya dari Jakarta ke Cirebon benar-benar <mark class='px-2 mx-1 text-mine bg-yellow-100 rounded-md ring-yellow-200 ring-2'>nyaman</mark>! Mobil Elf Long yang digunakan bersih, AC-nya dingin, dan sopirnya sangat profesional. Saya bisa istirahat dengan tenang sepanjang jalan tanpa merasa pegal. Terima kasih, pasti akan pakai jasa ini lagi!"
-                            name="Ahmad Fauzi" job="Dosen" img="{{ asset('img/testimonial/gal1.webp') }}"
+                            text="Rekomendasi {{ tagline() }} Surabaya bersama {{ env('APP_NAME') }}, perjalanan terasa <mark class='px-2 mx-1 text-mine bg-yellow-100 rounded-md ring-yellow-200 ring-2'>nyaman</mark> dan menyenangkan! Armada Elf Long-nya bersih, AC bekerja dengan baik, dan pengemudinya sangat berpengalaman. Sepanjang jalan, saya bisa bersantai tanpa gangguan atau rasa lelah. Pelayanan seperti ini bikin saya ingin memesan lagi di lain waktu."
+                            name="Danang" job="Pengusaha" img="{{ asset('img/testimonial/gal1.webp') }}"
                             className="xl:col-span-1 md:col-span-2" />
                         <x-testimoni
-                            text="Layanan travelnya sangat membantu! Saya pakai untuk mengantar orang tua ke bandara sebelum keberangkatan umroh. Mobilnya bersih, sopirnya ramah dan on time. Kami sekeluarga <mark class='px-2 mx-1 text-mine bg-yellow-100 rounded-md ring-yellow-200 ring-2'>merasa tenang</mark> karena semuanya berjalan lancar tanpa terburu-buru. Terima kasih atas pelayanannya!"
-                            name="Samsul Bahri" job="Konsultan Syariah"
-                            img="{{ asset('img/testimonial/gal2.webp') }}" />
+                            text="Layanan travel ini benar-benar bisa diandalkan! Saya memesan untuk mengantar orang tua ke bandara jelang keberangkatan umroh. Kendaraannya bersih, sopirnya sopan dan datang tepat waktu. Kami sekeluarga <mark class='px-2 mx-1 text-mine bg-yellow-100 rounded-md ring-yellow-200 ring-2'>merasa tenang</mark> karena perjalanan berlangsung mulus tanpa terburu-buru. Terima kasih atas pelayanan yang luar biasa!"
+                            name="Ahmad Fauzi" job="Agen Travel Umroh" img="{{ asset('img/testimonial/gal2.webp') }}" />
                         <x-testimoni
-                            text="Saya pulang dari kampus ke rumah saat Lebaran pakai jasa travel ini, dan alhamdulillah perjalanannya sangat nyaman. Supirnya <mark class='px-2 mx-1 text-mine bg-yellow-100 rounded-md ring-yellow-200 ring-2'>ramah</mark>, mobilnya <mark class='px-2 mx-1 text-mine bg-yellow-100 rounded-md ring-yellow-200 ring-2'>bersih</mark> dan <mark class='px-2 mx-1 text-mine bg-yellow-100 rounded-md ring-yellow-200 ring-2'>adem</mark>, jadi nggak terasa jauh. Orang tua saya juga senang karena saya bisa sampai rumah dengan selamat dan tepat waktu. Terima kasih banyak!"
+                            text="Saya menggunakan jasa travel ini untuk pulang ke Tuban dari Bali saat Lebaran, dan alhamdulillah semuanya berjalan lancar. Sopirnya <mark class='px-2 mx-1 text-mine bg-yellow-100 rounded-md ring-yellow-200 ring-2'>ramah</mark>, mobil yang digunakan <mark class='px-2 mx-1 text-mine bg-yellow-100 rounded-md ring-yellow-200 ring-2'>bersih</mark> dan <mark class='px-2 mx-1 text-mine bg-yellow-100 rounded-md ring-yellow-200 ring-2'>adem</mark>, bikin perjalanan jadi nyaman dan nggak terasa melelahkan. Orang tua saya juga ikut lega karena saya tiba dengan selamat dan tepat waktu. Terima kasih atas pelayanannya!"
                             name="Dewi Lestari" job="Mahasiswi" img="{{ asset('img/testimonial/gal3.webp') }}" />
                     </div>
                 </div>

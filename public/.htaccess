@@ -2,8 +2,8 @@
 
     RewriteEngine On
     
-    RewriteCond %{HTTP_HOST} ^www\.umj-trans\.com$ [NC]
-    RewriteRule ^(.*)$ https://umj-trans.com/$1 [L,R=301]
+    RewriteCond %{HTTP_HOST} ^www\.nabilatrans\.com$ [NC]
+    RewriteRule ^(.*)$ https://nabilatrans.com/$1 [L,R=301]
 
     <IfModule mod_negotiation.c>
         Options -MultiViews -Indexes

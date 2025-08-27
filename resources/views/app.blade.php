@@ -2,8 +2,10 @@
 <html lang="id">
 
 <head>
-    <link rel="preload" href="{{ asset('font/Poppins-Regular.ttf') }}" as="font" type="font/woff2"
+    <link rel="preload" href="{{ asset('font/Poppins-Regular.ttf') }}" as="font" type="font/ttf"
         crossorigin="anonymous">
+
+    <link rel="preload" href="{{ asset('img/logo.png') }}" as="image">
     <link rel="preload" href="{{ asset('img/blob.svg') }}" as="image">
 
     <meta charset="utf-8">

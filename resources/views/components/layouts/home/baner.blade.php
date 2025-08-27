@@ -4,14 +4,17 @@
     </div>
     <div class="text-center z-[3] px-2">
         <h1 class="!text-white mb-2">{{ config('app.name') }}</h1>
-        <p class="text-slate-200 mb-7 max-w-[450px] mx-auto">{{ config('app.name') }} menawarkan Travel seluruh Jawa
-            Timur
-            dengan rute utama {{ tagline() }} dan sekitarnya dengan sistem door to door!</p>
+        <p class="text-slate-200 mb-7 max-w-[450px] mx-auto">{{ config('app.name') }} menawarkan
+            <span class="bg-white px-2 rounded-full text-sm text-slate-700">{{ tagline() }}</span> dan
+            <span class="bg-white px-2 rounded-full text-sm text-slate-700">se-Pulau Jawa</span> dengan sistem door
+            to door! Ayo pesan travel anda sekarang juga!
+        </p>
     </div>
     <div class="w-full !z-[2] px-5">
         <div class="container mx-auto flex justify-center items-center {{-- last:[&>*]:hidden --}}">
             <x-travel-search />
-            {{-- <x-agen-search /> --}}
+            {{--
+            <x-agen-search /> --}}
         </div>
     </div>
 </div>
