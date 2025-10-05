@@ -52,6 +52,7 @@
 
     @if (isset($productSchema) && $productSchema)
         <!-- Product Schema -->
+
         <script type="application/ld+json">
         {!! preg_replace('/\\\/', '', json_encode($productSchema)) !!}
     </script>

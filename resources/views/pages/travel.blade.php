@@ -8,6 +8,13 @@
 
         $postal_address = json_decode(postal_address(), true);
     @endphp
+
+    @php
+
+        $asalSlug = Str::slug($travel[0]['name']);
+        $tujuanSlug = Str::slug($travel[1]['name']);
+    @endphp
+
     <x-default-baner :title="$page . ' PP Murah ' . date('Y')" :desc="$desc . '.'" />
     <x-layouts.article-section>
         {{-- left --}}
@@ -56,8 +63,12 @@
                 untuk rute-rute travel seluruh daerah di Pulau Jawa dan Bali. Mereka telah berlisensi dan telah mengikuti
                 pelatihan yang sesuai dengan jasa travel. </p>
 
-            <p>{{ env('APP_NAME') }} juga memiliki banyak <a href="{{ route('arsip-travel') }}"
-                    title="travel terbaik">travel terbaik</a>, berikut beberapa contohnya:</p>
+            <p>Selain
+                <a target="_blank" title="{{ $page }}"
+                    href="https://traveljawa.web.id/travel/dari-{{ $asalSlug }}/ke-{{ $tujuanSlug }}/{{ $asalId }}/{{ $tujuanId }}"><strong>{{ $page }}</strong>
+                </a> {{ env('APP_NAME') }} juga memiliki banyak <a href="{{ route('arsip-travel') }}"
+                    title="travel terbaik">travel terbaik</a>, berikut beberapa contohnya:
+            </p>
 
             <ul>
                 <li>
@@ -110,7 +121,10 @@
 
             <h3>Armada/Mobil Travel Yang Digunakan Lengkap</h3>
 
-            <p>Kami adalah jasa travel profesional, jadi kami telah memiliki banyak armada/mobil yang menunjang perjalanan
+            <p>Kami adalah jasa <a target="_blank" title="Travel {{ $tujuan }} {{ $asal }}"
+                    href="https://traveljawa.web.id/travel/dari-{{ $tujuanSlug }}/ke-{{ $asalSlug }}/{{ $tujuanId }}/{{ $asalId }}">
+                    Travel {{ $tujuan }} {{ $asal }}
+                </a> profesional, jadi kami telah memiliki banyak armada/mobil yang menunjang perjalanan
                 travel. Tentunya semua mobil tersebut telah dilengkapi pengamanan dan fasilitas menarik seperti bagasi dan
                 ac.</p>
 
