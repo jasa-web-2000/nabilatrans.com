@@ -21,7 +21,39 @@ if (! function_exists('email')) {
 if (! function_exists('phone')) {
     function phone()
     {
-        return '+62 852-0396-7844';
+        $originId = request()->route('asalId');
+        $destinationId = request()->route('tujuanId');
+
+        // Fungsi bantu untuk cek apakah ID termasuk dalam rentang wilayah tertentu
+        $inRange = function ($id, $ranges) {
+            foreach ($ranges as [$min, $max]) {
+                if ($id >= $min && $id <= $max) {
+                    return true;
+                }
+            }
+            return false;
+        };
+
+        $jatimRanges = [
+            [35, 35],           // Provinsi
+            [3501, 3579],       // Kota
+            [3501010, 3579030],   // Kecamatan
+        ];
+
+        $baliRanges = [
+            [51, 51],           // Provinsi
+            [5101, 5171],       // Kota
+            [5101010, 5171010],   // Kecamatan
+        ];
+
+
+        $jatimBali = ($inRange($originId, $jatimRanges) && $inRange($destinationId, $baliRanges)) || ($inRange($destinationId, $jatimRanges) && $inRange($originId, $baliRanges));
+
+
+        if ($jatimBali) {
+            return '+62 852-0396-7844';
+        }
+        return '+62 815-6530-711';
     }
 }
 
